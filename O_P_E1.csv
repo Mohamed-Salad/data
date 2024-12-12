@@ -1,0 +1,154 @@
+Passport held,Occupation,Observation
+Europe: United Kingdom,1,3115047
+Europe: United Kingdom,2,4813862
+Europe: United Kingdom,3,3201239
+Europe: United Kingdom,4,2254044
+Europe: United Kingdom,5,2274903
+Europe: United Kingdom,6,2072620
+Europe: United Kingdom,7,1696116
+Europe: United Kingdom,8,1403735
+Europe: United Kingdom,9,1892014
+Europe: Ireland,1,30940
+Europe: Ireland,2,62022
+Europe: Ireland,3,26470
+Europe: Ireland,4,14918
+Europe: Ireland,5,13808
+Europe: Ireland,6,13040
+Europe: Ireland,7,7829
+Europe: Ireland,8,8040
+Europe: Ireland,9,10966
+Europe: Other Europe: EU Member countries,1,185114
+Europe: Other Europe: EU Member countries,2,313672
+Europe: Other Europe: EU Member countries,3,194451
+Europe: Other Europe: EU Member countries,4,129068
+Europe: Other Europe: EU Member countries,5,255292
+Europe: Other Europe: EU Member countries,6,182117
+Europe: Other Europe: EU Member countries,7,127645
+Europe: Other Europe: EU Member countries,8,292057
+Europe: Other Europe: EU Member countries,9,511457
+Europe: Other Europe: Rest of Europe,1,13962
+Europe: Other Europe: Rest of Europe,2,20400
+Europe: Other Europe: Rest of Europe,3,10429
+Europe: Other Europe: Rest of Europe,4,5173
+Europe: Other Europe: Rest of Europe,5,12646
+Europe: Other Europe: Rest of Europe,6,5796
+Europe: Other Europe: Rest of Europe,7,4939
+Europe: Other Europe: Rest of Europe,8,4906
+Europe: Other Europe: Rest of Europe,9,12652
+Africa: North Africa,1,1608
+Africa: North Africa,2,6941
+Africa: North Africa,3,1492
+Africa: North Africa,4,754
+Africa: North Africa,5,1689
+Africa: North Africa,6,1416
+Africa: North Africa,7,1139
+Africa: North Africa,8,1611
+Africa: North Africa,9,3047
+Africa: Central and Western Africa,1,5532
+Africa: Central and Western Africa,2,20055
+Africa: Central and Western Africa,3,7434
+Africa: Central and Western Africa,4,4487
+Africa: Central and Western Africa,5,3561
+Africa: Central and Western Africa,6,32244
+Africa: Central and Western Africa,7,5933
+Africa: Central and Western Africa,8,5423
+Africa: Central and Western Africa,9,22114
+Africa: South and Eastern Africa,1,8370
+Africa: South and Eastern Africa,2,20294
+Africa: South and Eastern Africa,3,9296
+Africa: South and Eastern Africa,4,5634
+Africa: South and Eastern Africa,5,3879
+Africa: South and Eastern Africa,6,16062
+Africa: South and Eastern Africa,7,3952
+Africa: South and Eastern Africa,8,3431
+Africa: South and Eastern Africa,9,6349
+Middle East and Asia: Middle East,1,2754
+Middle East and Asia: Middle East,2,6842
+Middle East and Asia: Middle East,3,2218
+Middle East and Asia: Middle East,4,1122
+Middle East and Asia: Middle East,5,1290
+Middle East and Asia: Middle East,6,1095
+Middle East and Asia: Middle East,7,1259
+Middle East and Asia: Middle East,8,863
+Middle East and Asia: Middle East,9,1674
+Middle East and Asia: Eastern Asia,1,12433
+Middle East and Asia: Eastern Asia,2,22757
+Middle East and Asia: Eastern Asia,3,9675
+Middle East and Asia: Eastern Asia,4,5104
+Middle East and Asia: Eastern Asia,5,7477
+Middle East and Asia: Eastern Asia,6,2691
+Middle East and Asia: Eastern Asia,7,4023
+Middle East and Asia: Eastern Asia,8,726
+Middle East and Asia: Eastern Asia,9,4223
+Middle East and Asia: Southern Asia,1,29253
+Middle East and Asia: Southern Asia,2,91028
+Middle East and Asia: Southern Asia,3,22311
+Middle East and Asia: Southern Asia,4,16631
+Middle East and Asia: Southern Asia,5,21294
+Middle East and Asia: Southern Asia,6,24664
+Middle East and Asia: Southern Asia,7,32765
+Middle East and Asia: Southern Asia,8,30186
+Middle East and Asia: Southern Asia,9,52140
+Middle East and Asia: South-East Asia,1,5079
+Middle East and Asia: South-East Asia,2,30680
+Middle East and Asia: South-East Asia,3,5216
+Middle East and Asia: South-East Asia,4,3526
+Middle East and Asia: South-East Asia,5,4809
+Middle East and Asia: South-East Asia,6,13194
+Middle East and Asia: South-East Asia,7,3444
+Middle East and Asia: South-East Asia,8,1566
+Middle East and Asia: South-East Asia,9,9139
+Middle East and Asia: Central Asia,1,360
+Middle East and Asia: Central Asia,2,610
+Middle East and Asia: Central Asia,3,299
+Middle East and Asia: Central Asia,4,191
+Middle East and Asia: Central Asia,5,123
+Middle East and Asia: Central Asia,6,150
+Middle East and Asia: Central Asia,7,163
+Middle East and Asia: Central Asia,8,85
+Middle East and Asia: Central Asia,9,190
+The Americas and the Caribbean: North America,1,17239
+The Americas and the Caribbean: North America,2,32933
+The Americas and the Caribbean: North America,3,18252
+The Americas and the Caribbean: North America,4,6177
+The Americas and the Caribbean: North America,5,3245
+The Americas and the Caribbean: North America,6,3399
+The Americas and the Caribbean: North America,7,3358
+The Americas and the Caribbean: North America,8,1349
+The Americas and the Caribbean: North America,9,2691
+The Americas and the Caribbean: Central and South America,1,6470
+The Americas and the Caribbean: Central and South America,2,15086
+The Americas and the Caribbean: Central and South America,3,8640
+The Americas and the Caribbean: Central and South America,4,4452
+The Americas and the Caribbean: Central and South America,5,7222
+The Americas and the Caribbean: Central and South America,6,12001
+The Americas and the Caribbean: Central and South America,7,4519
+The Americas and the Caribbean: Central and South America,8,6814
+The Americas and the Caribbean: Central and South America,9,19221
+"Antarctica and Oceania, including Australasia",1,11112
+"Antarctica and Oceania, including Australasia",2,22394
+"Antarctica and Oceania, including Australasia",3,10008
+"Antarctica and Oceania, including Australasia",4,3538
+"Antarctica and Oceania, including Australasia",5,2756
+"Antarctica and Oceania, including Australasia",6,2521
+"Antarctica and Oceania, including Australasia",7,1659
+"Antarctica and Oceania, including Australasia",8,896
+"Antarctica and Oceania, including Australasia",9,1625
+British Overseas Territories,1,26
+British Overseas Territories,2,37
+British Overseas Territories,3,26
+British Overseas Territories,4,18
+British Overseas Territories,5,13
+British Overseas Territories,6,18
+British Overseas Territories,7,23
+British Overseas Territories,8,10
+British Overseas Territories,9,28
+No passport held,1,91377
+No passport held,2,103947
+No passport held,3,105535
+No passport held,4,109822
+No passport held,5,227723
+No passport held,6,203908
+No passport held,7,171116
+No passport held,8,173223
+No passport held,9,333609
