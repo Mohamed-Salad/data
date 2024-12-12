@@ -1,0 +1,541 @@
+Regions Code,Regions,Passports held (18 categories) Code,Passports held (18 categories),Disability (3 categories) Code,Disability (3 categories),Observation
+E12000001,North East,-8,Does not apply,-8,Does not apply,0
+E12000001,North East,-8,Does not apply,1,Disabled under the Equality Act,0
+E12000001,North East,-8,Does not apply,2,Not disabled under the Equality Act,0
+E12000001,North East,1,Europe: United Kingdom,-8,Does not apply,0
+E12000001,North East,1,Europe: United Kingdom,1,Disabled under the Equality Act,383177
+E12000001,North East,1,Europe: United Kingdom,2,Not disabled under the Equality Act,1653422
+E12000001,North East,2,Europe: Ireland,-8,Does not apply,0
+E12000001,North East,2,Europe: Ireland,1,Disabled under the Equality Act,977
+E12000001,North East,2,Europe: Ireland,2,Not disabled under the Equality Act,4702
+E12000001,North East,3,Europe: Other Europe: EU Member countries,-8,Does not apply,0
+E12000001,North East,3,Europe: Other Europe: EU Member countries,1,Disabled under the Equality Act,3720
+E12000001,North East,3,Europe: Other Europe: EU Member countries,2,Not disabled under the Equality Act,43984
+E12000001,North East,4,Europe: Other Europe: Rest of Europe,-8,Does not apply,0
+E12000001,North East,4,Europe: Other Europe: Rest of Europe,1,Disabled under the Equality Act,202
+E12000001,North East,4,Europe: Other Europe: Rest of Europe,2,Not disabled under the Equality Act,2175
+E12000001,North East,5,Africa: North Africa,-8,Does not apply,0
+E12000001,North East,5,Africa: North Africa,1,Disabled under the Equality Act,120
+E12000001,North East,5,Africa: North Africa,2,Not disabled under the Equality Act,1698
+E12000001,North East,6,Africa: Central and Western Africa,-8,Does not apply,0
+E12000001,North East,6,Africa: Central and Western Africa,1,Disabled under the Equality Act,110
+E12000001,North East,6,Africa: Central and Western Africa,2,Not disabled under the Equality Act,4531
+E12000001,North East,7,Africa: South and Eastern Africa,-8,Does not apply,0
+E12000001,North East,7,Africa: South and Eastern Africa,1,Disabled under the Equality Act,176
+E12000001,North East,7,Africa: South and Eastern Africa,2,Not disabled under the Equality Act,1884
+E12000001,North East,8,Middle East and Asia: Middle East,-8,Does not apply,0
+E12000001,North East,8,Middle East and Asia: Middle East,1,Disabled under the Equality Act,281
+E12000001,North East,8,Middle East and Asia: Middle East,2,Not disabled under the Equality Act,2921
+E12000001,North East,9,Middle East and Asia: Eastern Asia,-8,Does not apply,0
+E12000001,North East,9,Middle East and Asia: Eastern Asia,1,Disabled under the Equality Act,126
+E12000001,North East,9,Middle East and Asia: Eastern Asia,2,Not disabled under the Equality Act,3151
+E12000001,North East,10,Middle East and Asia: Southern Asia,-8,Does not apply,0
+E12000001,North East,10,Middle East and Asia: Southern Asia,1,Disabled under the Equality Act,780
+E12000001,North East,10,Middle East and Asia: Southern Asia,2,Not disabled under the Equality Act,11657
+E12000001,North East,11,Middle East and Asia: South-East Asia,-8,Does not apply,0
+E12000001,North East,11,Middle East and Asia: South-East Asia,1,Disabled under the Equality Act,152
+E12000001,North East,11,Middle East and Asia: South-East Asia,2,Not disabled under the Equality Act,3386
+E12000001,North East,12,Middle East and Asia: Central Asia,-8,Does not apply,0
+E12000001,North East,12,Middle East and Asia: Central Asia,1,Disabled under the Equality Act,1
+E12000001,North East,12,Middle East and Asia: Central Asia,2,Not disabled under the Equality Act,58
+E12000001,North East,13,The Americas and the Caribbean: North America,-8,Does not apply,0
+E12000001,North East,13,The Americas and the Caribbean: North America,1,Disabled under the Equality Act,383
+E12000001,North East,13,The Americas and the Caribbean: North America,2,Not disabled under the Equality Act,2083
+E12000001,North East,14,The Americas and the Caribbean: Central and South America,-8,Does not apply,0
+E12000001,North East,14,The Americas and the Caribbean: Central and South America,1,Disabled under the Equality Act,142
+E12000001,North East,14,The Americas and the Caribbean: Central and South America,2,Not disabled under the Equality Act,1382
+E12000001,North East,15,"Antarctica and Oceania, including Australasia",-8,Does not apply,0
+E12000001,North East,15,"Antarctica and Oceania, including Australasia",1,Disabled under the Equality Act,94
+E12000001,North East,15,"Antarctica and Oceania, including Australasia",2,Not disabled under the Equality Act,767
+E12000001,North East,16,British Overseas Territories,-8,Does not apply,0
+E12000001,North East,16,British Overseas Territories,1,Disabled under the Equality Act,0
+E12000001,North East,16,British Overseas Territories,2,Not disabled under the Equality Act,13
+E12000001,North East,17,No passport held,-8,Does not apply,0
+E12000001,North East,17,No passport held,1,Disabled under the Equality Act,152964
+E12000001,North East,17,No passport held,2,Not disabled under the Equality Act,313613
+E12000002,North West,-8,Does not apply,-8,Does not apply,0
+E12000002,North West,-8,Does not apply,1,Disabled under the Equality Act,0
+E12000002,North West,-8,Does not apply,2,Not disabled under the Equality Act,0
+E12000002,North West,1,Europe: United Kingdom,-8,Does not apply,0
+E12000002,North West,1,Europe: United Kingdom,1,Disabled under the Equality Act,1025471
+E12000002,North West,1,Europe: United Kingdom,2,Not disabled under the Equality Act,4768848
+E12000002,North West,2,Europe: Ireland,-8,Does not apply,0
+E12000002,North West,2,Europe: Ireland,1,Disabled under the Equality Act,7708
+E12000002,North West,2,Europe: Ireland,2,Not disabled under the Equality Act,33166
+E12000002,North West,3,Europe: Other Europe: EU Member countries,-8,Does not apply,0
+E12000002,North West,3,Europe: Other Europe: EU Member countries,1,Disabled under the Equality Act,19287
+E12000002,North West,3,Europe: Other Europe: EU Member countries,2,Not disabled under the Equality Act,272282
+E12000002,North West,4,Europe: Other Europe: Rest of Europe,-8,Does not apply,0
+E12000002,North West,4,Europe: Other Europe: Rest of Europe,1,Disabled under the Equality Act,648
+E12000002,North West,4,Europe: Other Europe: Rest of Europe,2,Not disabled under the Equality Act,8872
+E12000002,North West,5,Africa: North Africa,-8,Does not apply,0
+E12000002,North West,5,Africa: North Africa,1,Disabled under the Equality Act,526
+E12000002,North West,5,Africa: North Africa,2,Not disabled under the Equality Act,6769
+E12000002,North West,6,Africa: Central and Western Africa,-8,Does not apply,0
+E12000002,North West,6,Africa: Central and Western Africa,1,Disabled under the Equality Act,994
+E12000002,North West,6,Africa: Central and Western Africa,2,Not disabled under the Equality Act,18017
+E12000002,North West,7,Africa: South and Eastern Africa,-8,Does not apply,0
+E12000002,North West,7,Africa: South and Eastern Africa,1,Disabled under the Equality Act,723
+E12000002,North West,7,Africa: South and Eastern Africa,2,Not disabled under the Equality Act,7728
+E12000002,North West,8,Middle East and Asia: Middle East,-8,Does not apply,0
+E12000002,North West,8,Middle East and Asia: Middle East,1,Disabled under the Equality Act,918
+E12000002,North West,8,Middle East and Asia: Middle East,2,Not disabled under the Equality Act,9731
+E12000002,North West,9,Middle East and Asia: Eastern Asia,-8,Does not apply,0
+E12000002,North West,9,Middle East and Asia: Eastern Asia,1,Disabled under the Equality Act,520
+E12000002,North West,9,Middle East and Asia: Eastern Asia,2,Not disabled under the Equality Act,11861
+E12000002,North West,10,Middle East and Asia: Southern Asia,-8,Does not apply,0
+E12000002,North West,10,Middle East and Asia: Southern Asia,1,Disabled under the Equality Act,5418
+E12000002,North West,10,Middle East and Asia: Southern Asia,2,Not disabled under the Equality Act,63068
+E12000002,North West,11,Middle East and Asia: South-East Asia,-8,Does not apply,0
+E12000002,North West,11,Middle East and Asia: South-East Asia,1,Disabled under the Equality Act,366
+E12000002,North West,11,Middle East and Asia: South-East Asia,2,Not disabled under the Equality Act,8793
+E12000002,North West,12,Middle East and Asia: Central Asia,-8,Does not apply,0
+E12000002,North West,12,Middle East and Asia: Central Asia,1,Disabled under the Equality Act,13
+E12000002,North West,12,Middle East and Asia: Central Asia,2,Not disabled under the Equality Act,140
+E12000002,North West,13,The Americas and the Caribbean: North America,-8,Does not apply,0
+E12000002,North West,13,The Americas and the Caribbean: North America,1,Disabled under the Equality Act,1237
+E12000002,North West,13,The Americas and the Caribbean: North America,2,Not disabled under the Equality Act,6626
+E12000002,North West,14,The Americas and the Caribbean: Central and South America,-8,Does not apply,0
+E12000002,North West,14,The Americas and the Caribbean: Central and South America,1,Disabled under the Equality Act,696
+E12000002,North West,14,The Americas and the Caribbean: Central and South America,2,Not disabled under the Equality Act,8311
+E12000002,North West,15,"Antarctica and Oceania, including Australasia",-8,Does not apply,0
+E12000002,North West,15,"Antarctica and Oceania, including Australasia",1,Disabled under the Equality Act,329
+E12000002,North West,15,"Antarctica and Oceania, including Australasia",2,Not disabled under the Equality Act,2869
+E12000002,North West,16,British Overseas Territories,-8,Does not apply,0
+E12000002,North West,16,British Overseas Territories,1,Disabled under the Equality Act,15
+E12000002,North West,16,British Overseas Territories,2,Not disabled under the Equality Act,112
+E12000002,North West,17,No passport held,-8,Does not apply,0
+E12000002,North West,17,No passport held,1,Disabled under the Equality Act,317043
+E12000002,North West,17,No passport held,2,Not disabled under the Equality Act,681454
+E12000003,Yorkshire and The Humber,-8,Does not apply,-8,Does not apply,0
+E12000003,Yorkshire and The Humber,-8,Does not apply,1,Disabled under the Equality Act,0
+E12000003,Yorkshire and The Humber,-8,Does not apply,2,Not disabled under the Equality Act,0
+E12000003,Yorkshire and The Humber,1,Europe: United Kingdom,-8,Does not apply,0
+E12000003,Yorkshire and The Humber,1,Europe: United Kingdom,1,Disabled under the Equality Act,700000
+E12000003,Yorkshire and The Humber,1,Europe: United Kingdom,2,Not disabled under the Equality Act,3497245
+E12000003,Yorkshire and The Humber,2,Europe: Ireland,-8,Does not apply,0
+E12000003,Yorkshire and The Humber,2,Europe: Ireland,1,Disabled under the Equality Act,3059
+E12000003,Yorkshire and The Humber,2,Europe: Ireland,2,Not disabled under the Equality Act,12487
+E12000003,Yorkshire and The Humber,3,Europe: Other Europe: EU Member countries,-8,Does not apply,0
+E12000003,Yorkshire and The Humber,3,Europe: Other Europe: EU Member countries,1,Disabled under the Equality Act,14593
+E12000003,Yorkshire and The Humber,3,Europe: Other Europe: EU Member countries,2,Not disabled under the Equality Act,203920
+E12000003,Yorkshire and The Humber,4,Europe: Other Europe: Rest of Europe,-8,Does not apply,0
+E12000003,Yorkshire and The Humber,4,Europe: Other Europe: Rest of Europe,1,Disabled under the Equality Act,402
+E12000003,Yorkshire and The Humber,4,Europe: Other Europe: Rest of Europe,2,Not disabled under the Equality Act,5282
+E12000003,Yorkshire and The Humber,5,Africa: North Africa,-8,Does not apply,0
+E12000003,Yorkshire and The Humber,5,Africa: North Africa,1,Disabled under the Equality Act,307
+E12000003,Yorkshire and The Humber,5,Africa: North Africa,2,Not disabled under the Equality Act,4149
+E12000003,Yorkshire and The Humber,6,Africa: Central and Western Africa,-8,Does not apply,0
+E12000003,Yorkshire and The Humber,6,Africa: Central and Western Africa,1,Disabled under the Equality Act,449
+E12000003,Yorkshire and The Humber,6,Africa: Central and Western Africa,2,Not disabled under the Equality Act,10995
+E12000003,Yorkshire and The Humber,7,Africa: South and Eastern Africa,-8,Does not apply,0
+E12000003,Yorkshire and The Humber,7,Africa: South and Eastern Africa,1,Disabled under the Equality Act,556
+E12000003,Yorkshire and The Humber,7,Africa: South and Eastern Africa,2,Not disabled under the Equality Act,6349
+E12000003,Yorkshire and The Humber,8,Middle East and Asia: Middle East,-8,Does not apply,0
+E12000003,Yorkshire and The Humber,8,Middle East and Asia: Middle East,1,Disabled under the Equality Act,588
+E12000003,Yorkshire and The Humber,8,Middle East and Asia: Middle East,2,Not disabled under the Equality Act,6699
+E12000003,Yorkshire and The Humber,9,Middle East and Asia: Eastern Asia,-8,Does not apply,0
+E12000003,Yorkshire and The Humber,9,Middle East and Asia: Eastern Asia,1,Disabled under the Equality Act,293
+E12000003,Yorkshire and The Humber,9,Middle East and Asia: Eastern Asia,2,Not disabled under the Equality Act,6923
+E12000003,Yorkshire and The Humber,10,Middle East and Asia: Southern Asia,-8,Does not apply,0
+E12000003,Yorkshire and The Humber,10,Middle East and Asia: Southern Asia,1,Disabled under the Equality Act,3438
+E12000003,Yorkshire and The Humber,10,Middle East and Asia: Southern Asia,2,Not disabled under the Equality Act,38473
+E12000003,Yorkshire and The Humber,11,Middle East and Asia: South-East Asia,-8,Does not apply,0
+E12000003,Yorkshire and The Humber,11,Middle East and Asia: South-East Asia,1,Disabled under the Equality Act,315
+E12000003,Yorkshire and The Humber,11,Middle East and Asia: South-East Asia,2,Not disabled under the Equality Act,6251
+E12000003,Yorkshire and The Humber,12,Middle East and Asia: Central Asia,-8,Does not apply,0
+E12000003,Yorkshire and The Humber,12,Middle East and Asia: Central Asia,1,Disabled under the Equality Act,9
+E12000003,Yorkshire and The Humber,12,Middle East and Asia: Central Asia,2,Not disabled under the Equality Act,101
+E12000003,Yorkshire and The Humber,13,The Americas and the Caribbean: North America,-8,Does not apply,0
+E12000003,Yorkshire and The Humber,13,The Americas and the Caribbean: North America,1,Disabled under the Equality Act,923
+E12000003,Yorkshire and The Humber,13,The Americas and the Caribbean: North America,2,Not disabled under the Equality Act,5667
+E12000003,Yorkshire and The Humber,14,The Americas and the Caribbean: Central and South America,-8,Does not apply,0
+E12000003,Yorkshire and The Humber,14,The Americas and the Caribbean: Central and South America,1,Disabled under the Equality Act,425
+E12000003,Yorkshire and The Humber,14,The Americas and the Caribbean: Central and South America,2,Not disabled under the Equality Act,3746
+E12000003,Yorkshire and The Humber,15,"Antarctica and Oceania, including Australasia",-8,Does not apply,0
+E12000003,Yorkshire and The Humber,15,"Antarctica and Oceania, including Australasia",1,Disabled under the Equality Act,277
+E12000003,Yorkshire and The Humber,15,"Antarctica and Oceania, including Australasia",2,Not disabled under the Equality Act,2344
+E12000003,Yorkshire and The Humber,16,British Overseas Territories,-8,Does not apply,0
+E12000003,Yorkshire and The Humber,16,British Overseas Territories,1,Disabled under the Equality Act,9
+E12000003,Yorkshire and The Humber,16,British Overseas Territories,2,Not disabled under the Equality Act,54
+E12000003,Yorkshire and The Humber,17,No passport held,-8,Does not apply,0
+E12000003,Yorkshire and The Humber,17,No passport held,1,Disabled under the Equality Act,251657
+E12000003,Yorkshire and The Humber,17,No passport held,2,Not disabled under the Equality Act,588753
+E12000004,East Midlands,-8,Does not apply,-8,Does not apply,0
+E12000004,East Midlands,-8,Does not apply,1,Disabled under the Equality Act,0
+E12000004,East Midlands,-8,Does not apply,2,Not disabled under the Equality Act,0
+E12000004,East Midlands,1,Europe: United Kingdom,-8,Does not apply,0
+E12000004,East Midlands,1,Europe: United Kingdom,1,Disabled under the Equality Act,600134
+E12000004,East Midlands,1,Europe: United Kingdom,2,Not disabled under the Equality Act,2996914
+E12000004,East Midlands,2,Europe: Ireland,-8,Does not apply,0
+E12000004,East Midlands,2,Europe: Ireland,1,Disabled under the Equality Act,3419
+E12000004,East Midlands,2,Europe: Ireland,2,Not disabled under the Equality Act,14086
+E12000004,East Midlands,3,Europe: Other Europe: EU Member countries,-8,Does not apply,0
+E12000004,East Midlands,3,Europe: Other Europe: EU Member countries,1,Disabled under the Equality Act,16813
+E12000004,East Midlands,3,Europe: Other Europe: EU Member countries,2,Not disabled under the Equality Act,271092
+E12000004,East Midlands,4,Europe: Other Europe: Rest of Europe,-8,Does not apply,0
+E12000004,East Midlands,4,Europe: Other Europe: Rest of Europe,1,Disabled under the Equality Act,374
+E12000004,East Midlands,4,Europe: Other Europe: Rest of Europe,2,Not disabled under the Equality Act,7346
+E12000004,East Midlands,5,Africa: North Africa,-8,Does not apply,0
+E12000004,East Midlands,5,Africa: North Africa,1,Disabled under the Equality Act,209
+E12000004,East Midlands,5,Africa: North Africa,2,Not disabled under the Equality Act,3283
+E12000004,East Midlands,6,Africa: Central and Western Africa,-8,Does not apply,0
+E12000004,East Midlands,6,Africa: Central and Western Africa,1,Disabled under the Equality Act,404
+E12000004,East Midlands,6,Africa: Central and Western Africa,2,Not disabled under the Equality Act,11103
+E12000004,East Midlands,7,Africa: South and Eastern Africa,-8,Does not apply,0
+E12000004,East Midlands,7,Africa: South and Eastern Africa,1,Disabled under the Equality Act,777
+E12000004,East Midlands,7,Africa: South and Eastern Africa,2,Not disabled under the Equality Act,8755
+E12000004,East Midlands,8,Middle East and Asia: Middle East,-8,Does not apply,0
+E12000004,East Midlands,8,Middle East and Asia: Middle East,1,Disabled under the Equality Act,236
+E12000004,East Midlands,8,Middle East and Asia: Middle East,2,Not disabled under the Equality Act,3848
+E12000004,East Midlands,9,Middle East and Asia: Eastern Asia,-8,Does not apply,0
+E12000004,East Midlands,9,Middle East and Asia: Eastern Asia,1,Disabled under the Equality Act,229
+E12000004,East Midlands,9,Middle East and Asia: Eastern Asia,2,Not disabled under the Equality Act,5690
+E12000004,East Midlands,10,Middle East and Asia: Southern Asia,-8,Does not apply,0
+E12000004,East Midlands,10,Middle East and Asia: Southern Asia,1,Disabled under the Equality Act,3444
+E12000004,East Midlands,10,Middle East and Asia: Southern Asia,2,Not disabled under the Equality Act,45436
+E12000004,East Midlands,11,Middle East and Asia: South-East Asia,-8,Does not apply,0
+E12000004,East Midlands,11,Middle East and Asia: South-East Asia,1,Disabled under the Equality Act,268
+E12000004,East Midlands,11,Middle East and Asia: South-East Asia,2,Not disabled under the Equality Act,5823
+E12000004,East Midlands,12,Middle East and Asia: Central Asia,-8,Does not apply,0
+E12000004,East Midlands,12,Middle East and Asia: Central Asia,1,Disabled under the Equality Act,5
+E12000004,East Midlands,12,Middle East and Asia: Central Asia,2,Not disabled under the Equality Act,111
+E12000004,East Midlands,13,The Americas and the Caribbean: North America,-8,Does not apply,0
+E12000004,East Midlands,13,The Americas and the Caribbean: North America,1,Disabled under the Equality Act,928
+E12000004,East Midlands,13,The Americas and the Caribbean: North America,2,Not disabled under the Equality Act,5469
+E12000004,East Midlands,14,The Americas and the Caribbean: Central and South America,-8,Does not apply,0
+E12000004,East Midlands,14,The Americas and the Caribbean: Central and South America,1,Disabled under the Equality Act,420
+E12000004,East Midlands,14,The Americas and the Caribbean: Central and South America,2,Not disabled under the Equality Act,3971
+E12000004,East Midlands,15,"Antarctica and Oceania, including Australasia",-8,Does not apply,0
+E12000004,East Midlands,15,"Antarctica and Oceania, including Australasia",1,Disabled under the Equality Act,249
+E12000004,East Midlands,15,"Antarctica and Oceania, including Australasia",2,Not disabled under the Equality Act,2001
+E12000004,East Midlands,16,British Overseas Territories,-8,Does not apply,0
+E12000004,East Midlands,16,British Overseas Territories,1,Disabled under the Equality Act,13
+E12000004,East Midlands,16,British Overseas Territories,2,Not disabled under the Equality Act,61
+E12000004,East Midlands,17,No passport held,-8,Does not apply,0
+E12000004,East Midlands,17,No passport held,1,Disabled under the Equality Act,226834
+E12000004,East Midlands,17,No passport held,2,Not disabled under the Equality Act,538274
+E12000005,West Midlands,-8,Does not apply,-8,Does not apply,0
+E12000005,West Midlands,-8,Does not apply,1,Disabled under the Equality Act,0
+E12000005,West Midlands,-8,Does not apply,2,Not disabled under the Equality Act,0
+E12000005,West Midlands,1,Europe: United Kingdom,-8,Does not apply,0
+E12000005,West Midlands,1,Europe: United Kingdom,1,Disabled under the Equality Act,724526
+E12000005,West Midlands,1,Europe: United Kingdom,2,Not disabled under the Equality Act,3689562
+E12000005,West Midlands,2,Europe: Ireland,-8,Does not apply,0
+E12000005,West Midlands,2,Europe: Ireland,1,Disabled under the Equality Act,6501
+E12000005,West Midlands,2,Europe: Ireland,2,Not disabled under the Equality Act,22866
+E12000005,West Midlands,3,Europe: Other Europe: EU Member countries,-8,Does not apply,0
+E12000005,West Midlands,3,Europe: Other Europe: EU Member countries,1,Disabled under the Equality Act,17521
+E12000005,West Midlands,3,Europe: Other Europe: EU Member countries,2,Not disabled under the Equality Act,282747
+E12000005,West Midlands,4,Europe: Other Europe: Rest of Europe,-8,Does not apply,0
+E12000005,West Midlands,4,Europe: Other Europe: Rest of Europe,1,Disabled under the Equality Act,586
+E12000005,West Midlands,4,Europe: Other Europe: Rest of Europe,2,Not disabled under the Equality Act,10523
+E12000005,West Midlands,5,Africa: North Africa,-8,Does not apply,0
+E12000005,West Midlands,5,Africa: North Africa,1,Disabled under the Equality Act,261
+E12000005,West Midlands,5,Africa: North Africa,2,Not disabled under the Equality Act,4780
+E12000005,West Midlands,6,Africa: Central and Western Africa,-8,Does not apply,0
+E12000005,West Midlands,6,Africa: Central and Western Africa,1,Disabled under the Equality Act,798
+E12000005,West Midlands,6,Africa: Central and Western Africa,2,Not disabled under the Equality Act,18379
+E12000005,West Midlands,7,Africa: South and Eastern Africa,-8,Does not apply,0
+E12000005,West Midlands,7,Africa: South and Eastern Africa,1,Disabled under the Equality Act,810
+E12000005,West Midlands,7,Africa: South and Eastern Africa,2,Not disabled under the Equality Act,9932
+E12000005,West Midlands,8,Middle East and Asia: Middle East,-8,Does not apply,0
+E12000005,West Midlands,8,Middle East and Asia: Middle East,1,Disabled under the Equality Act,479
+E12000005,West Midlands,8,Middle East and Asia: Middle East,2,Not disabled under the Equality Act,5123
+E12000005,West Midlands,9,Middle East and Asia: Eastern Asia,-8,Does not apply,0
+E12000005,West Midlands,9,Middle East and Asia: Eastern Asia,1,Disabled under the Equality Act,354
+E12000005,West Midlands,9,Middle East and Asia: Eastern Asia,2,Not disabled under the Equality Act,9310
+E12000005,West Midlands,10,Middle East and Asia: Southern Asia,-8,Does not apply,0
+E12000005,West Midlands,10,Middle East and Asia: Southern Asia,1,Disabled under the Equality Act,8434
+E12000005,West Midlands,10,Middle East and Asia: Southern Asia,2,Not disabled under the Equality Act,80796
+E12000005,West Midlands,11,Middle East and Asia: South-East Asia,-8,Does not apply,0
+E12000005,West Midlands,11,Middle East and Asia: South-East Asia,1,Disabled under the Equality Act,403
+E12000005,West Midlands,11,Middle East and Asia: South-East Asia,2,Not disabled under the Equality Act,7167
+E12000005,West Midlands,12,Middle East and Asia: Central Asia,-8,Does not apply,0
+E12000005,West Midlands,12,Middle East and Asia: Central Asia,1,Disabled under the Equality Act,20
+E12000005,West Midlands,12,Middle East and Asia: Central Asia,2,Not disabled under the Equality Act,165
+E12000005,West Midlands,13,The Americas and the Caribbean: North America,-8,Does not apply,0
+E12000005,West Midlands,13,The Americas and the Caribbean: North America,1,Disabled under the Equality Act,927
+E12000005,West Midlands,13,The Americas and the Caribbean: North America,2,Not disabled under the Equality Act,4881
+E12000005,West Midlands,14,The Americas and the Caribbean: Central and South America,-8,Does not apply,0
+E12000005,West Midlands,14,The Americas and the Caribbean: Central and South America,1,Disabled under the Equality Act,1119
+E12000005,West Midlands,14,The Americas and the Caribbean: Central and South America,2,Not disabled under the Equality Act,7958
+E12000005,West Midlands,15,"Antarctica and Oceania, including Australasia",-8,Does not apply,0
+E12000005,West Midlands,15,"Antarctica and Oceania, including Australasia",1,Disabled under the Equality Act,253
+E12000005,West Midlands,15,"Antarctica and Oceania, including Australasia",2,Not disabled under the Equality Act,2355
+E12000005,West Midlands,16,British Overseas Territories,-8,Does not apply,0
+E12000005,West Midlands,16,British Overseas Territories,1,Disabled under the Equality Act,8
+E12000005,West Midlands,16,British Overseas Territories,2,Not disabled under the Equality Act,84
+E12000005,West Midlands,17,No passport held,-8,Does not apply,0
+E12000005,West Midlands,17,No passport held,1,Disabled under the Equality Act,271584
+E12000005,West Midlands,17,No passport held,2,Not disabled under the Equality Act,663301
+E12000006,East of England,-8,Does not apply,-8,Does not apply,0
+E12000006,East of England,-8,Does not apply,1,Disabled under the Equality Act,0
+E12000006,East of England,-8,Does not apply,2,Not disabled under the Equality Act,0
+E12000006,East of England,1,Europe: United Kingdom,-8,Does not apply,0
+E12000006,East of England,1,Europe: United Kingdom,1,Disabled under the Equality Act,738393
+E12000006,East of England,1,Europe: United Kingdom,2,Not disabled under the Equality Act,4086480
+E12000006,East of England,2,Europe: Ireland,-8,Does not apply,0
+E12000006,East of England,2,Europe: Ireland,1,Disabled under the Equality Act,6787
+E12000006,East of England,2,Europe: Ireland,2,Not disabled under the Equality Act,34027
+E12000006,East of England,3,Europe: Other Europe: EU Member countries,-8,Does not apply,0
+E12000006,East of England,3,Europe: Other Europe: EU Member countries,1,Disabled under the Equality Act,22599
+E12000006,East of England,3,Europe: Other Europe: EU Member countries,2,Not disabled under the Equality Act,354499
+E12000006,East of England,4,Europe: Other Europe: Rest of Europe,-8,Does not apply,0
+E12000006,East of England,4,Europe: Other Europe: Rest of Europe,1,Disabled under the Equality Act,823
+E12000006,East of England,4,Europe: Other Europe: Rest of Europe,2,Not disabled under the Equality Act,13983
+E12000006,East of England,5,Africa: North Africa,-8,Does not apply,0
+E12000006,East of England,5,Africa: North Africa,1,Disabled under the Equality Act,223
+E12000006,East of England,5,Africa: North Africa,2,Not disabled under the Equality Act,3513
+E12000006,East of England,6,Africa: Central and Western Africa,-8,Does not apply,0
+E12000006,East of England,6,Africa: Central and Western Africa,1,Disabled under the Equality Act,742
+E12000006,East of England,6,Africa: Central and Western Africa,2,Not disabled under the Equality Act,16726
+E12000006,East of England,7,Africa: South and Eastern Africa,-8,Does not apply,0
+E12000006,East of England,7,Africa: South and Eastern Africa,1,Disabled under the Equality Act,1144
+E12000006,East of England,7,Africa: South and Eastern Africa,2,Not disabled under the Equality Act,13032
+E12000006,East of England,8,Middle East and Asia: Middle East,-8,Does not apply,0
+E12000006,East of England,8,Middle East and Asia: Middle East,1,Disabled under the Equality Act,234
+E12000006,East of England,8,Middle East and Asia: Middle East,2,Not disabled under the Equality Act,2931
+E12000006,East of England,9,Middle East and Asia: Eastern Asia,-8,Does not apply,0
+E12000006,East of England,9,Middle East and Asia: Eastern Asia,1,Disabled under the Equality Act,396
+E12000006,East of England,9,Middle East and Asia: Eastern Asia,2,Not disabled under the Equality Act,9766
+E12000006,East of England,10,Middle East and Asia: Southern Asia,-8,Does not apply,0
+E12000006,East of England,10,Middle East and Asia: Southern Asia,1,Disabled under the Equality Act,3124
+E12000006,East of England,10,Middle East and Asia: Southern Asia,2,Not disabled under the Equality Act,49648
+E12000006,East of England,11,Middle East and Asia: South-East Asia,-8,Does not apply,0
+E12000006,East of England,11,Middle East and Asia: South-East Asia,1,Disabled under the Equality Act,581
+E12000006,East of England,11,Middle East and Asia: South-East Asia,2,Not disabled under the Equality Act,12430
+E12000006,East of England,12,Middle East and Asia: Central Asia,-8,Does not apply,0
+E12000006,East of England,12,Middle East and Asia: Central Asia,1,Disabled under the Equality Act,7
+E12000006,East of England,12,Middle East and Asia: Central Asia,2,Not disabled under the Equality Act,280
+E12000006,East of England,13,The Americas and the Caribbean: North America,-8,Does not apply,0
+E12000006,East of England,13,The Americas and the Caribbean: North America,1,Disabled under the Equality Act,2554
+E12000006,East of England,13,The Americas and the Caribbean: North America,2,Not disabled under the Equality Act,25851
+E12000006,East of England,14,The Americas and the Caribbean: Central and South America,-8,Does not apply,0
+E12000006,East of England,14,The Americas and the Caribbean: Central and South America,1,Disabled under the Equality Act,798
+E12000006,East of England,14,The Americas and the Caribbean: Central and South America,2,Not disabled under the Equality Act,8857
+E12000006,East of England,15,"Antarctica and Oceania, including Australasia",-8,Does not apply,0
+E12000006,East of England,15,"Antarctica and Oceania, including Australasia",1,Disabled under the Equality Act,651
+E12000006,East of England,15,"Antarctica and Oceania, including Australasia",2,Not disabled under the Equality Act,5328
+E12000006,East of England,16,British Overseas Territories,-8,Does not apply,0
+E12000006,East of England,16,British Overseas Territories,1,Disabled under the Equality Act,3
+E12000006,East of England,16,British Overseas Territories,2,Not disabled under the Equality Act,34
+E12000006,East of England,17,No passport held,-8,Does not apply,0
+E12000006,East of England,17,No passport held,1,Disabled under the Equality Act,231161
+E12000006,East of England,17,No passport held,2,Not disabled under the Equality Act,591052
+E12000007,London,-8,Does not apply,-8,Does not apply,0
+E12000007,London,-8,Does not apply,1,Disabled under the Equality Act,0
+E12000007,London,-8,Does not apply,2,Not disabled under the Equality Act,0
+E12000007,London,1,Europe: United Kingdom,-8,Does not apply,0
+E12000007,London,1,Europe: United Kingdom,1,Disabled under the Equality Act,859192
+E12000007,London,1,Europe: United Kingdom,2,Not disabled under the Equality Act,5345152
+E12000007,London,2,Europe: Ireland,-8,Does not apply,0
+E12000007,London,2,Europe: Ireland,1,Disabled under the Equality Act,20505
+E12000007,London,2,Europe: Ireland,2,Not disabled under the Equality Act,99498
+E12000007,London,3,Europe: Other Europe: EU Member countries,-8,Does not apply,0
+E12000007,London,3,Europe: Other Europe: EU Member countries,1,Disabled under the Equality Act,69858
+E12000007,London,3,Europe: Other Europe: EU Member countries,2,Not disabled under the Equality Act,1099469
+E12000007,London,4,Europe: Other Europe: Rest of Europe,-8,Does not apply,0
+E12000007,London,4,Europe: Other Europe: Rest of Europe,1,Disabled under the Equality Act,4741
+E12000007,London,4,Europe: Other Europe: Rest of Europe,2,Not disabled under the Equality Act,77370
+E12000007,London,5,Africa: North Africa,-8,Does not apply,0
+E12000007,London,5,Africa: North Africa,1,Disabled under the Equality Act,1642
+E12000007,London,5,Africa: North Africa,2,Not disabled under the Equality Act,14672
+E12000007,London,6,Africa: Central and Western Africa,-8,Does not apply,0
+E12000007,London,6,Africa: Central and Western Africa,1,Disabled under the Equality Act,5988
+E12000007,London,6,Africa: Central and Western Africa,2,Not disabled under the Equality Act,67774
+E12000007,London,7,Africa: South and Eastern Africa,-8,Does not apply,0
+E12000007,London,7,Africa: South and Eastern Africa,1,Disabled under the Equality Act,3012
+E12000007,London,7,Africa: South and Eastern Africa,2,Not disabled under the Equality Act,29360
+E12000007,London,8,Middle East and Asia: Middle East,-8,Does not apply,0
+E12000007,London,8,Middle East and Asia: Middle East,1,Disabled under the Equality Act,2085
+E12000007,London,8,Middle East and Asia: Middle East,2,Not disabled under the Equality Act,19735
+E12000007,London,9,Middle East and Asia: Eastern Asia,-8,Does not apply,0
+E12000007,London,9,Middle East and Asia: Eastern Asia,1,Disabled under the Equality Act,2433
+E12000007,London,9,Middle East and Asia: Eastern Asia,2,Not disabled under the Equality Act,56299
+E12000007,London,10,Middle East and Asia: Southern Asia,-8,Does not apply,0
+E12000007,London,10,Middle East and Asia: Southern Asia,1,Disabled under the Equality Act,17769
+E12000007,London,10,Middle East and Asia: Southern Asia,2,Not disabled under the Equality Act,209810
+E12000007,London,11,Middle East and Asia: South-East Asia,-8,Does not apply,0
+E12000007,London,11,Middle East and Asia: South-East Asia,1,Disabled under the Equality Act,2604
+E12000007,London,11,Middle East and Asia: South-East Asia,2,Not disabled under the Equality Act,41817
+E12000007,London,12,Middle East and Asia: Central Asia,-8,Does not apply,0
+E12000007,London,12,Middle East and Asia: Central Asia,1,Disabled under the Equality Act,104
+E12000007,London,12,Middle East and Asia: Central Asia,2,Not disabled under the Equality Act,2453
+E12000007,London,13,The Americas and the Caribbean: North America,-8,Does not apply,0
+E12000007,London,13,The Americas and the Caribbean: North America,1,Disabled under the Equality Act,4903
+E12000007,London,13,The Americas and the Caribbean: North America,2,Not disabled under the Equality Act,52949
+E12000007,London,14,The Americas and the Caribbean: Central and South America,-8,Does not apply,0
+E12000007,London,14,The Americas and the Caribbean: Central and South America,1,Disabled under the Equality Act,6763
+E12000007,London,14,The Americas and the Caribbean: Central and South America,2,Not disabled under the Equality Act,66045
+E12000007,London,15,"Antarctica and Oceania, including Australasia",-8,Does not apply,0
+E12000007,London,15,"Antarctica and Oceania, including Australasia",1,Disabled under the Equality Act,2624
+E12000007,London,15,"Antarctica and Oceania, including Australasia",2,Not disabled under the Equality Act,34174
+E12000007,London,16,British Overseas Territories,-8,Does not apply,0
+E12000007,London,16,British Overseas Territories,1,Disabled under the Equality Act,12
+E12000007,London,16,British Overseas Territories,2,Not disabled under the Equality Act,77
+E12000007,London,17,No passport held,-8,Does not apply,0
+E12000007,London,17,No passport held,1,Disabled under the Equality Act,121039
+E12000007,London,17,No passport held,2,Not disabled under the Equality Act,357905
+E12000008,South East,-8,Does not apply,-8,Does not apply,0
+E12000008,South East,-8,Does not apply,1,Disabled under the Equality Act,0
+E12000008,South East,-8,Does not apply,2,Not disabled under the Equality Act,0
+E12000008,South East,1,Europe: United Kingdom,-8,Does not apply,0
+E12000008,South East,1,Europe: United Kingdom,1,Disabled under the Equality Act,1084424
+E12000008,South East,1,Europe: United Kingdom,2,Not disabled under the Equality Act,6182324
+E12000008,South East,2,Europe: Ireland,-8,Does not apply,0
+E12000008,South East,2,Europe: Ireland,1,Disabled under the Equality Act,8396
+E12000008,South East,2,Europe: Ireland,2,Not disabled under the Equality Act,48340
+E12000008,South East,3,Europe: Other Europe: EU Member countries,-8,Does not apply,0
+E12000008,South East,3,Europe: Other Europe: EU Member countries,1,Disabled under the Equality Act,28790
+E12000008,South East,3,Europe: Other Europe: EU Member countries,2,Not disabled under the Equality Act,456526
+E12000008,South East,4,Europe: Other Europe: Rest of Europe,-8,Does not apply,0
+E12000008,South East,4,Europe: Other Europe: Rest of Europe,1,Disabled under the Equality Act,1332
+E12000008,South East,4,Europe: Other Europe: Rest of Europe,2,Not disabled under the Equality Act,21207
+E12000008,South East,5,Africa: North Africa,-8,Does not apply,0
+E12000008,South East,5,Africa: North Africa,1,Disabled under the Equality Act,375
+E12000008,South East,5,Africa: North Africa,2,Not disabled under the Equality Act,5549
+E12000008,South East,6,Africa: Central and Western Africa,-8,Does not apply,0
+E12000008,South East,6,Africa: Central and Western Africa,1,Disabled under the Equality Act,919
+E12000008,South East,6,Africa: Central and Western Africa,2,Not disabled under the Equality Act,20140
+E12000008,South East,7,Africa: South and Eastern Africa,-8,Does not apply,0
+E12000008,South East,7,Africa: South and Eastern Africa,1,Disabled under the Equality Act,2073
+E12000008,South East,7,Africa: South and Eastern Africa,2,Not disabled under the Equality Act,26642
+E12000008,South East,8,Middle East and Asia: Middle East,-8,Does not apply,0
+E12000008,South East,8,Middle East and Asia: Middle East,1,Disabled under the Equality Act,511
+E12000008,South East,8,Middle East and Asia: Middle East,2,Not disabled under the Equality Act,6083
+E12000008,South East,9,Middle East and Asia: Eastern Asia,-8,Does not apply,0
+E12000008,South East,9,Middle East and Asia: Eastern Asia,1,Disabled under the Equality Act,729
+E12000008,South East,9,Middle East and Asia: Eastern Asia,2,Not disabled under the Equality Act,18830
+E12000008,South East,10,Middle East and Asia: Southern Asia,-8,Does not apply,0
+E12000008,South East,10,Middle East and Asia: Southern Asia,1,Disabled under the Equality Act,5918
+E12000008,South East,10,Middle East and Asia: Southern Asia,2,Not disabled under the Equality Act,91274
+E12000008,South East,11,Middle East and Asia: South-East Asia,-8,Does not apply,0
+E12000008,South East,11,Middle East and Asia: South-East Asia,1,Disabled under the Equality Act,904
+E12000008,South East,11,Middle East and Asia: South-East Asia,2,Not disabled under the Equality Act,18972
+E12000008,South East,12,Middle East and Asia: Central Asia,-8,Does not apply,0
+E12000008,South East,12,Middle East and Asia: Central Asia,1,Disabled under the Equality Act,35
+E12000008,South East,12,Middle East and Asia: Central Asia,2,Not disabled under the Equality Act,594
+E12000008,South East,13,The Americas and the Caribbean: North America,-8,Does not apply,0
+E12000008,South East,13,The Americas and the Caribbean: North America,1,Disabled under the Equality Act,2940
+E12000008,South East,13,The Americas and the Caribbean: North America,2,Not disabled under the Equality Act,20124
+E12000008,South East,14,The Americas and the Caribbean: Central and South America,-8,Does not apply,0
+E12000008,South East,14,The Americas and the Caribbean: Central and South America,1,Disabled under the Equality Act,1130
+E12000008,South East,14,The Americas and the Caribbean: Central and South America,2,Not disabled under the Equality Act,16616
+E12000008,South East,15,"Antarctica and Oceania, including Australasia",-8,Does not apply,0
+E12000008,South East,15,"Antarctica and Oceania, including Australasia",1,Disabled under the Equality Act,1322
+E12000008,South East,15,"Antarctica and Oceania, including Australasia",2,Not disabled under the Equality Act,11774
+E12000008,South East,16,British Overseas Territories,-8,Does not apply,0
+E12000008,South East,16,British Overseas Territories,1,Disabled under the Equality Act,8
+E12000008,South East,16,British Overseas Territories,2,Not disabled under the Equality Act,56
+E12000008,South East,17,No passport held,-8,Does not apply,0
+E12000008,South East,17,No passport held,1,Disabled under the Equality Act,282354
+E12000008,South East,17,No passport held,2,Not disabled under the Equality Act,721341
+E12000009,South West,-8,Does not apply,-8,Does not apply,0
+E12000009,South West,-8,Does not apply,1,Disabled under the Equality Act,0
+E12000009,South West,-8,Does not apply,2,Not disabled under the Equality Act,0
+E12000009,South West,1,Europe: United Kingdom,-8,Does not apply,0
+E12000009,South West,1,Europe: United Kingdom,1,Disabled under the Equality Act,730750
+E12000009,South West,1,Europe: United Kingdom,2,Not disabled under the Equality Act,3646793
+E12000009,South West,2,Europe: Ireland,-8,Does not apply,0
+E12000009,South West,2,Europe: Ireland,1,Disabled under the Equality Act,3587
+E12000009,South West,2,Europe: Ireland,2,Not disabled under the Equality Act,17445
+E12000009,South West,3,Europe: Other Europe: EU Member countries,-8,Does not apply,0
+E12000009,South West,3,Europe: Other Europe: EU Member countries,1,Disabled under the Equality Act,14765
+E12000009,South West,3,Europe: Other Europe: EU Member countries,2,Not disabled under the Equality Act,204619
+E12000009,South West,4,Europe: Other Europe: Rest of Europe,-8,Does not apply,0
+E12000009,South West,4,Europe: Other Europe: Rest of Europe,1,Disabled under the Equality Act,544
+E12000009,South West,4,Europe: Other Europe: Rest of Europe,2,Not disabled under the Equality Act,7143
+E12000009,South West,5,Africa: North Africa,-8,Does not apply,0
+E12000009,South West,5,Africa: North Africa,1,Disabled under the Equality Act,143
+E12000009,South West,5,Africa: North Africa,2,Not disabled under the Equality Act,2164
+E12000009,South West,6,Africa: Central and Western Africa,-8,Does not apply,0
+E12000009,South West,6,Africa: Central and Western Africa,1,Disabled under the Equality Act,236
+E12000009,South West,6,Africa: Central and Western Africa,2,Not disabled under the Equality Act,5428
+E12000009,South West,7,Africa: South and Eastern Africa,-8,Does not apply,0
+E12000009,South West,7,Africa: South and Eastern Africa,1,Disabled under the Equality Act,793
+E12000009,South West,7,Africa: South and Eastern Africa,2,Not disabled under the Equality Act,7959
+E12000009,South West,8,Middle East and Asia: Middle East,-8,Does not apply,0
+E12000009,South West,8,Middle East and Asia: Middle East,1,Disabled under the Equality Act,221
+E12000009,South West,8,Middle East and Asia: Middle East,2,Not disabled under the Equality Act,2502
+E12000009,South West,9,Middle East and Asia: Eastern Asia,-8,Does not apply,0
+E12000009,South West,9,Middle East and Asia: Eastern Asia,1,Disabled under the Equality Act,337
+E12000009,South West,9,Middle East and Asia: Eastern Asia,2,Not disabled under the Equality Act,7196
+E12000009,South West,10,Middle East and Asia: Southern Asia,-8,Does not apply,0
+E12000009,South West,10,Middle East and Asia: Southern Asia,1,Disabled under the Equality Act,1275
+E12000009,South West,10,Middle East and Asia: Southern Asia,2,Not disabled under the Equality Act,24065
+E12000009,South West,11,Middle East and Asia: South-East Asia,-8,Does not apply,0
+E12000009,South West,11,Middle East and Asia: South-East Asia,1,Disabled under the Equality Act,452
+E12000009,South West,11,Middle East and Asia: South-East Asia,2,Not disabled under the Equality Act,9013
+E12000009,South West,12,Middle East and Asia: Central Asia,-8,Does not apply,0
+E12000009,South West,12,Middle East and Asia: Central Asia,1,Disabled under the Equality Act,15
+E12000009,South West,12,Middle East and Asia: Central Asia,2,Not disabled under the Equality Act,223
+E12000009,South West,13,The Americas and the Caribbean: North America,-8,Does not apply,0
+E12000009,South West,13,The Americas and the Caribbean: North America,1,Disabled under the Equality Act,1486
+E12000009,South West,13,The Americas and the Caribbean: North America,2,Not disabled under the Equality Act,8568
+E12000009,South West,14,The Americas and the Caribbean: Central and South America,-8,Does not apply,0
+E12000009,South West,14,The Americas and the Caribbean: Central and South America,1,Disabled under the Equality Act,628
+E12000009,South West,14,The Americas and the Caribbean: Central and South America,2,Not disabled under the Equality Act,8014
+E12000009,South West,15,"Antarctica and Oceania, including Australasia",-8,Does not apply,0
+E12000009,South West,15,"Antarctica and Oceania, including Australasia",1,Disabled under the Equality Act,622
+E12000009,South West,15,"Antarctica and Oceania, including Australasia",2,Not disabled under the Equality Act,5382
+E12000009,South West,16,British Overseas Territories,-8,Does not apply,0
+E12000009,South West,16,British Overseas Territories,1,Disabled under the Equality Act,5
+E12000009,South West,16,British Overseas Territories,2,Not disabled under the Equality Act,30
+E12000009,South West,17,No passport held,-8,Does not apply,0
+E12000009,South West,17,No passport held,1,Disabled under the Equality Act,253939
+E12000009,South West,17,No passport held,2,Not disabled under the Equality Act,616256
+W92000004,Wales,-8,Does not apply,-8,Does not apply,0
+W92000004,Wales,-8,Does not apply,1,Disabled under the Equality Act,0
+W92000004,Wales,-8,Does not apply,2,Not disabled under the Equality Act,0
+W92000004,Wales,1,Europe: United Kingdom,-8,Does not apply,0
+W92000004,Wales,1,Europe: United Kingdom,1,Disabled under the Equality Act,452484
+W92000004,Wales,1,Europe: United Kingdom,2,Not disabled under the Equality Act,1917196
+W92000004,Wales,2,Europe: Ireland,-8,Does not apply,0
+W92000004,Wales,2,Europe: Ireland,1,Disabled under the Equality Act,1828
+W92000004,Wales,2,Europe: Ireland,2,Not disabled under the Equality Act,7736
+W92000004,Wales,3,Europe: Other Europe: EU Member countries,-8,Does not apply,0
+W92000004,Wales,3,Europe: Other Europe: EU Member countries,1,Disabled under the Equality Act,5833
+W92000004,Wales,3,Europe: Other Europe: EU Member countries,2,Not disabled under the Equality Act,65500
+W92000004,Wales,4,Europe: Other Europe: Rest of Europe,-8,Does not apply,0
+W92000004,Wales,4,Europe: Other Europe: Rest of Europe,1,Disabled under the Equality Act,232
+W92000004,Wales,4,Europe: Other Europe: Rest of Europe,2,Not disabled under the Equality Act,2509
+W92000004,Wales,5,Africa: North Africa,-8,Does not apply,0
+W92000004,Wales,5,Africa: North Africa,1,Disabled under the Equality Act,157
+W92000004,Wales,5,Africa: North Africa,2,Not disabled under the Equality Act,1803
+W92000004,Wales,6,Africa: Central and Western Africa,-8,Does not apply,0
+W92000004,Wales,6,Africa: Central and Western Africa,1,Disabled under the Equality Act,139
+W92000004,Wales,6,Africa: Central and Western Africa,2,Not disabled under the Equality Act,2825
+W92000004,Wales,7,Africa: South and Eastern Africa,-8,Does not apply,0
+W92000004,Wales,7,Africa: South and Eastern Africa,1,Disabled under the Equality Act,267
+W92000004,Wales,7,Africa: South and Eastern Africa,2,Not disabled under the Equality Act,2338
+W92000004,Wales,8,Middle East and Asia: Middle East,-8,Does not apply,0
+W92000004,Wales,8,Middle East and Asia: Middle East,1,Disabled under the Equality Act,274
+W92000004,Wales,8,Middle East and Asia: Middle East,2,Not disabled under the Equality Act,2796
+W92000004,Wales,9,Middle East and Asia: Eastern Asia,-8,Does not apply,0
+W92000004,Wales,9,Middle East and Asia: Eastern Asia,1,Disabled under the Equality Act,145
+W92000004,Wales,9,Middle East and Asia: Eastern Asia,2,Not disabled under the Equality Act,3307
+W92000004,Wales,10,Middle East and Asia: Southern Asia,-8,Does not apply,0
+W92000004,Wales,10,Middle East and Asia: Southern Asia,1,Disabled under the Equality Act,710
+W92000004,Wales,10,Middle East and Asia: Southern Asia,2,Not disabled under the Equality Act,10039
+W92000004,Wales,11,Middle East and Asia: South-East Asia,-8,Does not apply,0
+W92000004,Wales,11,Middle East and Asia: South-East Asia,1,Disabled under the Equality Act,142
+W92000004,Wales,11,Middle East and Asia: South-East Asia,2,Not disabled under the Equality Act,3279
+W92000004,Wales,12,Middle East and Asia: Central Asia,-8,Does not apply,0
+W92000004,Wales,12,Middle East and Asia: Central Asia,1,Disabled under the Equality Act,9
+W92000004,Wales,12,Middle East and Asia: Central Asia,2,Not disabled under the Equality Act,69
+W92000004,Wales,13,The Americas and the Caribbean: North America,-8,Does not apply,0
+W92000004,Wales,13,The Americas and the Caribbean: North America,1,Disabled under the Equality Act,617
+W92000004,Wales,13,The Americas and the Caribbean: North America,2,Not disabled under the Equality Act,2585
+W92000004,Wales,14,The Americas and the Caribbean: Central and South America,-8,Does not apply,0
+W92000004,Wales,14,The Americas and the Caribbean: Central and South America,1,Disabled under the Equality Act,150
+W92000004,Wales,14,The Americas and the Caribbean: Central and South America,2,Not disabled under the Equality Act,1377
+W92000004,Wales,15,"Antarctica and Oceania, including Australasia",-8,Does not apply,0
+W92000004,Wales,15,"Antarctica and Oceania, including Australasia",1,Disabled under the Equality Act,169
+W92000004,Wales,15,"Antarctica and Oceania, including Australasia",2,Not disabled under the Equality Act,1287
+W92000004,Wales,16,British Overseas Territories,-8,Does not apply,0
+W92000004,Wales,16,British Overseas Territories,1,Disabled under the Equality Act,1
+W92000004,Wales,16,British Overseas Territories,2,Not disabled under the Equality Act,10
+W92000004,Wales,17,No passport held,-8,Does not apply,0
+W92000004,Wales,17,No passport held,1,Disabled under the Equality Act,180900
+W92000004,Wales,17,No passport held,2,Not disabled under the Equality Act,382841

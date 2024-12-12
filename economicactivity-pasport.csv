@@ -1,0 +1,1261 @@
+Regions Code,Regions,Passports held (18 categories) Code,Passports held (18 categories),Economic activity status (7 categories) Code,Economic activity status (7 categories),Observation
+E12000001,North East,-8,Does not apply,-8,Does not apply,0
+E12000001,North East,-8,Does not apply,1,Economically active (excluding full-time students): In employment,0
+E12000001,North East,-8,Does not apply,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+E12000001,North East,-8,Does not apply,3,Economically active and a full-time student: In employment,0
+E12000001,North East,-8,Does not apply,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+E12000001,North East,-8,Does not apply,5,Economically inactive (excluding full-time students),0
+E12000001,North East,-8,Does not apply,6,Economically inactive and a full-time student,0
+E12000001,North East,1,Europe: United Kingdom,-8,Does not apply,308677
+E12000001,North East,1,Europe: United Kingdom,1,Economically active (excluding full-time students): In employment,976120
+E12000001,North East,1,Europe: United Kingdom,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,45715
+E12000001,North East,1,Europe: United Kingdom,3,Economically active and a full-time student: In employment,26995
+E12000001,North East,1,Europe: United Kingdom,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,9080
+E12000001,North East,1,Europe: United Kingdom,5,Economically inactive (excluding full-time students),586351
+E12000001,North East,1,Europe: United Kingdom,6,Economically inactive and a full-time student,83661
+E12000001,North East,2,Europe: Ireland,-8,Does not apply,490
+E12000001,North East,2,Europe: Ireland,1,Economically active (excluding full-time students): In employment,2991
+E12000001,North East,2,Europe: Ireland,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,120
+E12000001,North East,2,Europe: Ireland,3,Economically active and a full-time student: In employment,147
+E12000001,North East,2,Europe: Ireland,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,39
+E12000001,North East,2,Europe: Ireland,5,Economically inactive (excluding full-time students),1484
+E12000001,North East,2,Europe: Ireland,6,Economically inactive and a full-time student,408
+E12000001,North East,3,Europe: Other Europe: EU Member countries,-8,Does not apply,9463
+E12000001,North East,3,Europe: Other Europe: EU Member countries,1,Economically active (excluding full-time students): In employment,24728
+E12000001,North East,3,Europe: Other Europe: EU Member countries,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1927
+E12000001,North East,3,Europe: Other Europe: EU Member countries,3,Economically active and a full-time student: In employment,1228
+E12000001,North East,3,Europe: Other Europe: EU Member countries,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,417
+E12000001,North East,3,Europe: Other Europe: EU Member countries,5,Economically inactive (excluding full-time students),6833
+E12000001,North East,3,Europe: Other Europe: EU Member countries,6,Economically inactive and a full-time student,3108
+E12000001,North East,4,Europe: Other Europe: Rest of Europe,-8,Does not apply,323
+E12000001,North East,4,Europe: Other Europe: Rest of Europe,1,Economically active (excluding full-time students): In employment,1059
+E12000001,North East,4,Europe: Other Europe: Rest of Europe,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,156
+E12000001,North East,4,Europe: Other Europe: Rest of Europe,3,Economically active and a full-time student: In employment,47
+E12000001,North East,4,Europe: Other Europe: Rest of Europe,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,9
+E12000001,North East,4,Europe: Other Europe: Rest of Europe,5,Economically inactive (excluding full-time students),571
+E12000001,North East,4,Europe: Other Europe: Rest of Europe,6,Economically inactive and a full-time student,213
+E12000001,North East,5,Africa: North Africa,-8,Does not apply,487
+E12000001,North East,5,Africa: North Africa,1,Economically active (excluding full-time students): In employment,544
+E12000001,North East,5,Africa: North Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,103
+E12000001,North East,5,Africa: North Africa,3,Economically active and a full-time student: In employment,37
+E12000001,North East,5,Africa: North Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,21
+E12000001,North East,5,Africa: North Africa,5,Economically inactive (excluding full-time students),423
+E12000001,North East,5,Africa: North Africa,6,Economically inactive and a full-time student,205
+E12000001,North East,6,Africa: Central and Western Africa,-8,Does not apply,902
+E12000001,North East,6,Africa: Central and Western Africa,1,Economically active (excluding full-time students): In employment,1778
+E12000001,North East,6,Africa: Central and Western Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,251
+E12000001,North East,6,Africa: Central and Western Africa,3,Economically active and a full-time student: In employment,479
+E12000001,North East,6,Africa: Central and Western Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,303
+E12000001,North East,6,Africa: Central and Western Africa,5,Economically inactive (excluding full-time students),443
+E12000001,North East,6,Africa: Central and Western Africa,6,Economically inactive and a full-time student,484
+E12000001,North East,7,Africa: South and Eastern Africa,-8,Does not apply,230
+E12000001,North East,7,Africa: South and Eastern Africa,1,Economically active (excluding full-time students): In employment,1068
+E12000001,North East,7,Africa: South and Eastern Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,145
+E12000001,North East,7,Africa: South and Eastern Africa,3,Economically active and a full-time student: In employment,73
+E12000001,North East,7,Africa: South and Eastern Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,31
+E12000001,North East,7,Africa: South and Eastern Africa,5,Economically inactive (excluding full-time students),335
+E12000001,North East,7,Africa: South and Eastern Africa,6,Economically inactive and a full-time student,178
+E12000001,North East,8,Middle East and Asia: Middle East,-8,Does not apply,791
+E12000001,North East,8,Middle East and Asia: Middle East,1,Economically active (excluding full-time students): In employment,518
+E12000001,North East,8,Middle East and Asia: Middle East,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,175
+E12000001,North East,8,Middle East and Asia: Middle East,3,Economically active and a full-time student: In employment,58
+E12000001,North East,8,Middle East and Asia: Middle East,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,34
+E12000001,North East,8,Middle East and Asia: Middle East,5,Economically inactive (excluding full-time students),792
+E12000001,North East,8,Middle East and Asia: Middle East,6,Economically inactive and a full-time student,832
+E12000001,North East,9,Middle East and Asia: Eastern Asia,-8,Does not apply,269
+E12000001,North East,9,Middle East and Asia: Eastern Asia,1,Economically active (excluding full-time students): In employment,1465
+E12000001,North East,9,Middle East and Asia: Eastern Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,109
+E12000001,North East,9,Middle East and Asia: Eastern Asia,3,Economically active and a full-time student: In employment,64
+E12000001,North East,9,Middle East and Asia: Eastern Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,45
+E12000001,North East,9,Middle East and Asia: Eastern Asia,5,Economically inactive (excluding full-time students),575
+E12000001,North East,9,Middle East and Asia: Eastern Asia,6,Economically inactive and a full-time student,750
+E12000001,North East,10,Middle East and Asia: Southern Asia,-8,Does not apply,1513
+E12000001,North East,10,Middle East and Asia: Southern Asia,1,Economically active (excluding full-time students): In employment,4487
+E12000001,North East,10,Middle East and Asia: Southern Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,417
+E12000001,North East,10,Middle East and Asia: Southern Asia,3,Economically active and a full-time student: In employment,1005
+E12000001,North East,10,Middle East and Asia: Southern Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,683
+E12000001,North East,10,Middle East and Asia: Southern Asia,5,Economically inactive (excluding full-time students),2857
+E12000001,North East,10,Middle East and Asia: Southern Asia,6,Economically inactive and a full-time student,1475
+E12000001,North East,11,Middle East and Asia: South-East Asia,-8,Does not apply,290
+E12000001,North East,11,Middle East and Asia: South-East Asia,1,Economically active (excluding full-time students): In employment,2035
+E12000001,North East,11,Middle East and Asia: South-East Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,135
+E12000001,North East,11,Middle East and Asia: South-East Asia,3,Economically active and a full-time student: In employment,79
+E12000001,North East,11,Middle East and Asia: South-East Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,55
+E12000001,North East,11,Middle East and Asia: South-East Asia,5,Economically inactive (excluding full-time students),553
+E12000001,North East,11,Middle East and Asia: South-East Asia,6,Economically inactive and a full-time student,392
+E12000001,North East,12,Middle East and Asia: Central Asia,-8,Does not apply,9
+E12000001,North East,12,Middle East and Asia: Central Asia,1,Economically active (excluding full-time students): In employment,19
+E12000001,North East,12,Middle East and Asia: Central Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,4
+E12000001,North East,12,Middle East and Asia: Central Asia,3,Economically active and a full-time student: In employment,3
+E12000001,North East,12,Middle East and Asia: Central Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,2
+E12000001,North East,12,Middle East and Asia: Central Asia,5,Economically inactive (excluding full-time students),14
+E12000001,North East,12,Middle East and Asia: Central Asia,6,Economically inactive and a full-time student,8
+E12000001,North East,13,The Americas and the Caribbean: North America,-8,Does not apply,263
+E12000001,North East,13,The Americas and the Caribbean: North America,1,Economically active (excluding full-time students): In employment,1258
+E12000001,North East,13,The Americas and the Caribbean: North America,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,84
+E12000001,North East,13,The Americas and the Caribbean: North America,3,Economically active and a full-time student: In employment,69
+E12000001,North East,13,The Americas and the Caribbean: North America,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,24
+E12000001,North East,13,The Americas and the Caribbean: North America,5,Economically inactive (excluding full-time students),551
+E12000001,North East,13,The Americas and the Caribbean: North America,6,Economically inactive and a full-time student,217
+E12000001,North East,14,The Americas and the Caribbean: Central and South America,-8,Does not apply,162
+E12000001,North East,14,The Americas and the Caribbean: Central and South America,1,Economically active (excluding full-time students): In employment,664
+E12000001,North East,14,The Americas and the Caribbean: Central and South America,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,110
+E12000001,North East,14,The Americas and the Caribbean: Central and South America,3,Economically active and a full-time student: In employment,52
+E12000001,North East,14,The Americas and the Caribbean: Central and South America,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,28
+E12000001,North East,14,The Americas and the Caribbean: Central and South America,5,Economically inactive (excluding full-time students),267
+E12000001,North East,14,The Americas and the Caribbean: Central and South America,6,Economically inactive and a full-time student,241
+E12000001,North East,15,"Antarctica and Oceania, including Australasia",-8,Does not apply,82
+E12000001,North East,15,"Antarctica and Oceania, including Australasia",1,Economically active (excluding full-time students): In employment,537
+E12000001,North East,15,"Antarctica and Oceania, including Australasia",2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,22
+E12000001,North East,15,"Antarctica and Oceania, including Australasia",3,Economically active and a full-time student: In employment,15
+E12000001,North East,15,"Antarctica and Oceania, including Australasia",4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,4
+E12000001,North East,15,"Antarctica and Oceania, including Australasia",5,Economically inactive (excluding full-time students),175
+E12000001,North East,15,"Antarctica and Oceania, including Australasia",6,Economically inactive and a full-time student,24
+E12000001,North East,16,British Overseas Territories,-8,Does not apply,4
+E12000001,North East,16,British Overseas Territories,1,Economically active (excluding full-time students): In employment,1
+E12000001,North East,16,British Overseas Territories,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+E12000001,North East,16,British Overseas Territories,3,Economically active and a full-time student: In employment,0
+E12000001,North East,16,British Overseas Territories,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+E12000001,North East,16,British Overseas Territories,5,Economically inactive (excluding full-time students),5
+E12000001,North East,16,British Overseas Territories,6,Economically inactive and a full-time student,0
+E12000001,North East,17,No passport held,-8,Does not apply,143716
+E12000001,North East,17,No passport held,1,Economically active (excluding full-time students): In employment,81925
+E12000001,North East,17,No passport held,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,15960
+E12000001,North East,17,No passport held,3,Economically active and a full-time student: In employment,1421
+E12000001,North East,17,No passport held,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1128
+E12000001,North East,17,No passport held,5,Economically inactive (excluding full-time students),208552
+E12000001,North East,17,No passport held,6,Economically inactive and a full-time student,13877
+E12000002,North West,-8,Does not apply,-8,Does not apply,0
+E12000002,North West,-8,Does not apply,1,Economically active (excluding full-time students): In employment,0
+E12000002,North West,-8,Does not apply,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+E12000002,North West,-8,Does not apply,3,Economically active and a full-time student: In employment,0
+E12000002,North West,-8,Does not apply,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+E12000002,North West,-8,Does not apply,5,Economically inactive (excluding full-time students),0
+E12000002,North West,-8,Does not apply,6,Economically inactive and a full-time student,0
+E12000002,North West,1,Europe: United Kingdom,-8,Does not apply,969127
+E12000002,North West,1,Europe: United Kingdom,1,Economically active (excluding full-time students): In employment,2804706
+E12000002,North West,1,Europe: United Kingdom,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,119908
+E12000002,North West,1,Europe: United Kingdom,3,Economically active and a full-time student: In employment,80771
+E12000002,North West,1,Europe: United Kingdom,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,24838
+E12000002,North West,1,Europe: United Kingdom,5,Economically inactive (excluding full-time students),1562471
+E12000002,North West,1,Europe: United Kingdom,6,Economically inactive and a full-time student,232498
+E12000002,North West,2,Europe: Ireland,-8,Does not apply,3538
+E12000002,North West,2,Europe: Ireland,1,Economically active (excluding full-time students): In employment,19219
+E12000002,North West,2,Europe: Ireland,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,800
+E12000002,North West,2,Europe: Ireland,3,Economically active and a full-time student: In employment,821
+E12000002,North West,2,Europe: Ireland,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,283
+E12000002,North West,2,Europe: Ireland,5,Economically inactive (excluding full-time students),14052
+E12000002,North West,2,Europe: Ireland,6,Economically inactive and a full-time student,2161
+E12000002,North West,3,Europe: Other Europe: EU Member countries,-8,Does not apply,62352
+E12000002,North West,3,Europe: Other Europe: EU Member countries,1,Economically active (excluding full-time students): In employment,160888
+E12000002,North West,3,Europe: Other Europe: EU Member countries,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,10240
+E12000002,North West,3,Europe: Other Europe: EU Member countries,3,Economically active and a full-time student: In employment,7020
+E12000002,North West,3,Europe: Other Europe: EU Member countries,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,2240
+E12000002,North West,3,Europe: Other Europe: EU Member countries,5,Economically inactive (excluding full-time students),32343
+E12000002,North West,3,Europe: Other Europe: EU Member countries,6,Economically inactive and a full-time student,16486
+E12000002,North West,4,Europe: Other Europe: Rest of Europe,-8,Does not apply,1514
+E12000002,North West,4,Europe: Other Europe: Rest of Europe,1,Economically active (excluding full-time students): In employment,4559
+E12000002,North West,4,Europe: Other Europe: Rest of Europe,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,428
+E12000002,North West,4,Europe: Other Europe: Rest of Europe,3,Economically active and a full-time student: In employment,189
+E12000002,North West,4,Europe: Other Europe: Rest of Europe,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,92
+E12000002,North West,4,Europe: Other Europe: Rest of Europe,5,Economically inactive (excluding full-time students),2047
+E12000002,North West,4,Europe: Other Europe: Rest of Europe,6,Economically inactive and a full-time student,690
+E12000002,North West,5,Africa: North Africa,-8,Does not apply,1874
+E12000002,North West,5,Africa: North Africa,1,Economically active (excluding full-time students): In employment,2101
+E12000002,North West,5,Africa: North Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,510
+E12000002,North West,5,Africa: North Africa,3,Economically active and a full-time student: In employment,95
+E12000002,North West,5,Africa: North Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,88
+E12000002,North West,5,Africa: North Africa,5,Economically inactive (excluding full-time students),1780
+E12000002,North West,5,Africa: North Africa,6,Economically inactive and a full-time student,847
+E12000002,North West,6,Africa: Central and Western Africa,-8,Does not apply,2762
+E12000002,North West,6,Africa: Central and Western Africa,1,Economically active (excluding full-time students): In employment,9237
+E12000002,North West,6,Africa: Central and Western Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1046
+E12000002,North West,6,Africa: Central and Western Africa,3,Economically active and a full-time student: In employment,1148
+E12000002,North West,6,Africa: Central and Western Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,487
+E12000002,North West,6,Africa: Central and Western Africa,5,Economically inactive (excluding full-time students),2671
+E12000002,North West,6,Africa: Central and Western Africa,6,Economically inactive and a full-time student,1660
+E12000002,North West,7,Africa: South and Eastern Africa,-8,Does not apply,845
+E12000002,North West,7,Africa: South and Eastern Africa,1,Economically active (excluding full-time students): In employment,4693
+E12000002,North West,7,Africa: South and Eastern Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,466
+E12000002,North West,7,Africa: South and Eastern Africa,3,Economically active and a full-time student: In employment,254
+E12000002,North West,7,Africa: South and Eastern Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,101
+E12000002,North West,7,Africa: South and Eastern Africa,5,Economically inactive (excluding full-time students),1399
+E12000002,North West,7,Africa: South and Eastern Africa,6,Economically inactive and a full-time student,693
+E12000002,North West,8,Middle East and Asia: Middle East,-8,Does not apply,2449
+E12000002,North West,8,Middle East and Asia: Middle East,1,Economically active (excluding full-time students): In employment,1814
+E12000002,North West,8,Middle East and Asia: Middle East,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,426
+E12000002,North West,8,Middle East and Asia: Middle East,3,Economically active and a full-time student: In employment,168
+E12000002,North West,8,Middle East and Asia: Middle East,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,124
+E12000002,North West,8,Middle East and Asia: Middle East,5,Economically inactive (excluding full-time students),2596
+E12000002,North West,8,Middle East and Asia: Middle East,6,Economically inactive and a full-time student,3072
+E12000002,North West,9,Middle East and Asia: Eastern Asia,-8,Does not apply,1779
+E12000002,North West,9,Middle East and Asia: Eastern Asia,1,Economically active (excluding full-time students): In employment,5359
+E12000002,North West,9,Middle East and Asia: Eastern Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,378
+E12000002,North West,9,Middle East and Asia: Eastern Asia,3,Economically active and a full-time student: In employment,204
+E12000002,North West,9,Middle East and Asia: Eastern Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,74
+E12000002,North West,9,Middle East and Asia: Eastern Asia,5,Economically inactive (excluding full-time students),2521
+E12000002,North West,9,Middle East and Asia: Eastern Asia,6,Economically inactive and a full-time student,2063
+E12000002,North West,10,Middle East and Asia: Southern Asia,-8,Does not apply,9993
+E12000002,North West,10,Middle East and Asia: Southern Asia,1,Economically active (excluding full-time students): In employment,25329
+E12000002,North West,10,Middle East and Asia: Southern Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,2708
+E12000002,North West,10,Middle East and Asia: Southern Asia,3,Economically active and a full-time student: In employment,1691
+E12000002,North West,10,Middle East and Asia: Southern Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,973
+E12000002,North West,10,Middle East and Asia: Southern Asia,5,Economically inactive (excluding full-time students),23672
+E12000002,North West,10,Middle East and Asia: Southern Asia,6,Economically inactive and a full-time student,4120
+E12000002,North West,11,Middle East and Asia: South-East Asia,-8,Does not apply,693
+E12000002,North West,11,Middle East and Asia: South-East Asia,1,Economically active (excluding full-time students): In employment,5258
+E12000002,North West,11,Middle East and Asia: South-East Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,301
+E12000002,North West,11,Middle East and Asia: South-East Asia,3,Economically active and a full-time student: In employment,138
+E12000002,North West,11,Middle East and Asia: South-East Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,64
+E12000002,North West,11,Middle East and Asia: South-East Asia,5,Economically inactive (excluding full-time students),1707
+E12000002,North West,11,Middle East and Asia: South-East Asia,6,Economically inactive and a full-time student,1000
+E12000002,North West,12,Middle East and Asia: Central Asia,-8,Does not apply,8
+E12000002,North West,12,Middle East and Asia: Central Asia,1,Economically active (excluding full-time students): In employment,62
+E12000002,North West,12,Middle East and Asia: Central Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,12
+E12000002,North West,12,Middle East and Asia: Central Asia,3,Economically active and a full-time student: In employment,2
+E12000002,North West,12,Middle East and Asia: Central Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1
+E12000002,North West,12,Middle East and Asia: Central Asia,5,Economically inactive (excluding full-time students),37
+E12000002,North West,12,Middle East and Asia: Central Asia,6,Economically inactive and a full-time student,30
+E12000002,North West,13,The Americas and the Caribbean: North America,-8,Does not apply,918
+E12000002,North West,13,The Americas and the Caribbean: North America,1,Economically active (excluding full-time students): In employment,3959
+E12000002,North West,13,The Americas and the Caribbean: North America,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,264
+E12000002,North West,13,The Americas and the Caribbean: North America,3,Economically active and a full-time student: In employment,126
+E12000002,North West,13,The Americas and the Caribbean: North America,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,57
+E12000002,North West,13,The Americas and the Caribbean: North America,5,Economically inactive (excluding full-time students),1970
+E12000002,North West,13,The Americas and the Caribbean: North America,6,Economically inactive and a full-time student,563
+E12000002,North West,14,The Americas and the Caribbean: Central and South America,-8,Does not apply,1106
+E12000002,North West,14,The Americas and the Caribbean: Central and South America,1,Economically active (excluding full-time students): In employment,4679
+E12000002,North West,14,The Americas and the Caribbean: Central and South America,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,683
+E12000002,North West,14,The Americas and the Caribbean: Central and South America,3,Economically active and a full-time student: In employment,170
+E12000002,North West,14,The Americas and the Caribbean: Central and South America,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,120
+E12000002,North West,14,The Americas and the Caribbean: Central and South America,5,Economically inactive (excluding full-time students),1590
+E12000002,North West,14,The Americas and the Caribbean: Central and South America,6,Economically inactive and a full-time student,659
+E12000002,North West,15,"Antarctica and Oceania, including Australasia",-8,Does not apply,251
+E12000002,North West,15,"Antarctica and Oceania, including Australasia",1,Economically active (excluding full-time students): In employment,2176
+E12000002,North West,15,"Antarctica and Oceania, including Australasia",2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,102
+E12000002,North West,15,"Antarctica and Oceania, including Australasia",3,Economically active and a full-time student: In employment,24
+E12000002,North West,15,"Antarctica and Oceania, including Australasia",4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,9
+E12000002,North West,15,"Antarctica and Oceania, including Australasia",5,Economically inactive (excluding full-time students),571
+E12000002,North West,15,"Antarctica and Oceania, including Australasia",6,Economically inactive and a full-time student,65
+E12000002,North West,16,British Overseas Territories,-8,Does not apply,42
+E12000002,North West,16,British Overseas Territories,1,Economically active (excluding full-time students): In employment,35
+E12000002,North West,16,British Overseas Territories,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,11
+E12000002,North West,16,British Overseas Territories,3,Economically active and a full-time student: In employment,1
+E12000002,North West,16,British Overseas Territories,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1
+E12000002,North West,16,British Overseas Territories,5,Economically inactive (excluding full-time students),23
+E12000002,North West,16,British Overseas Territories,6,Economically inactive and a full-time student,14
+E12000002,North West,17,No passport held,-8,Does not apply,330289
+E12000002,North West,17,No passport held,1,Economically active (excluding full-time students): In employment,177236
+E12000002,North West,17,No passport held,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,27583
+E12000002,North West,17,No passport held,3,Economically active and a full-time student: In employment,3622
+E12000002,North West,17,No passport held,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,2288
+E12000002,North West,17,No passport held,5,Economically inactive (excluding full-time students),429452
+E12000002,North West,17,No passport held,6,Economically inactive and a full-time student,28028
+E12000003,Yorkshire and The Humber,-8,Does not apply,-8,Does not apply,0
+E12000003,Yorkshire and The Humber,-8,Does not apply,1,Economically active (excluding full-time students): In employment,0
+E12000003,Yorkshire and The Humber,-8,Does not apply,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+E12000003,Yorkshire and The Humber,-8,Does not apply,3,Economically active and a full-time student: In employment,0
+E12000003,Yorkshire and The Humber,-8,Does not apply,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+E12000003,Yorkshire and The Humber,-8,Does not apply,5,Economically inactive (excluding full-time students),0
+E12000003,Yorkshire and The Humber,-8,Does not apply,6,Economically inactive and a full-time student,0
+E12000003,Yorkshire and The Humber,1,Europe: United Kingdom,-8,Does not apply,690845
+E12000003,Yorkshire and The Humber,1,Europe: United Kingdom,1,Economically active (excluding full-time students): In employment,2039186
+E12000003,Yorkshire and The Humber,1,Europe: United Kingdom,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,84179
+E12000003,Yorkshire and The Humber,1,Europe: United Kingdom,3,Economically active and a full-time student: In employment,59580
+E12000003,Yorkshire and The Humber,1,Europe: United Kingdom,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,18981
+E12000003,Yorkshire and The Humber,1,Europe: United Kingdom,5,Economically inactive (excluding full-time students),1129399
+E12000003,Yorkshire and The Humber,1,Europe: United Kingdom,6,Economically inactive and a full-time student,175075
+E12000003,Yorkshire and The Humber,2,Europe: Ireland,-8,Does not apply,1097
+E12000003,Yorkshire and The Humber,2,Europe: Ireland,1,Economically active (excluding full-time students): In employment,7652
+E12000003,Yorkshire and The Humber,2,Europe: Ireland,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,300
+E12000003,Yorkshire and The Humber,2,Europe: Ireland,3,Economically active and a full-time student: In employment,214
+E12000003,Yorkshire and The Humber,2,Europe: Ireland,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,79
+E12000003,Yorkshire and The Humber,2,Europe: Ireland,5,Economically inactive (excluding full-time students),5564
+E12000003,Yorkshire and The Humber,2,Europe: Ireland,6,Economically inactive and a full-time student,639
+E12000003,Yorkshire and The Humber,3,Europe: Other Europe: EU Member countries,-8,Does not apply,43598
+E12000003,Yorkshire and The Humber,3,Europe: Other Europe: EU Member countries,1,Economically active (excluding full-time students): In employment,125189
+E12000003,Yorkshire and The Humber,3,Europe: Other Europe: EU Member countries,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,7384
+E12000003,Yorkshire and The Humber,3,Europe: Other Europe: EU Member countries,3,Economically active and a full-time student: In employment,4291
+E12000003,Yorkshire and The Humber,3,Europe: Other Europe: EU Member countries,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1363
+E12000003,Yorkshire and The Humber,3,Europe: Other Europe: EU Member countries,5,Economically inactive (excluding full-time students),26381
+E12000003,Yorkshire and The Humber,3,Europe: Other Europe: EU Member countries,6,Economically inactive and a full-time student,10307
+E12000003,Yorkshire and The Humber,4,Europe: Other Europe: Rest of Europe,-8,Does not apply,679
+E12000003,Yorkshire and The Humber,4,Europe: Other Europe: Rest of Europe,1,Economically active (excluding full-time students): In employment,2549
+E12000003,Yorkshire and The Humber,4,Europe: Other Europe: Rest of Europe,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,345
+E12000003,Yorkshire and The Humber,4,Europe: Other Europe: Rest of Europe,3,Economically active and a full-time student: In employment,128
+E12000003,Yorkshire and The Humber,4,Europe: Other Europe: Rest of Europe,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,61
+E12000003,Yorkshire and The Humber,4,Europe: Other Europe: Rest of Europe,5,Economically inactive (excluding full-time students),1434
+E12000003,Yorkshire and The Humber,4,Europe: Other Europe: Rest of Europe,6,Economically inactive and a full-time student,488
+E12000003,Yorkshire and The Humber,5,Africa: North Africa,-8,Does not apply,1098
+E12000003,Yorkshire and The Humber,5,Africa: North Africa,1,Economically active (excluding full-time students): In employment,1282
+E12000003,Yorkshire and The Humber,5,Africa: North Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,299
+E12000003,Yorkshire and The Humber,5,Africa: North Africa,3,Economically active and a full-time student: In employment,100
+E12000003,Yorkshire and The Humber,5,Africa: North Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,70
+E12000003,Yorkshire and The Humber,5,Africa: North Africa,5,Economically inactive (excluding full-time students),1086
+E12000003,Yorkshire and The Humber,5,Africa: North Africa,6,Economically inactive and a full-time student,522
+E12000003,Yorkshire and The Humber,6,Africa: Central and Western Africa,-8,Does not apply,1919
+E12000003,Yorkshire and The Humber,6,Africa: Central and Western Africa,1,Economically active (excluding full-time students): In employment,5180
+E12000003,Yorkshire and The Humber,6,Africa: Central and Western Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,665
+E12000003,Yorkshire and The Humber,6,Africa: Central and Western Africa,3,Economically active and a full-time student: In employment,837
+E12000003,Yorkshire and The Humber,6,Africa: Central and Western Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,382
+E12000003,Yorkshire and The Humber,6,Africa: Central and Western Africa,5,Economically inactive (excluding full-time students),1402
+E12000003,Yorkshire and The Humber,6,Africa: Central and Western Africa,6,Economically inactive and a full-time student,1060
+E12000003,Yorkshire and The Humber,7,Africa: South and Eastern Africa,-8,Does not apply,656
+E12000003,Yorkshire and The Humber,7,Africa: South and Eastern Africa,1,Economically active (excluding full-time students): In employment,3822
+E12000003,Yorkshire and The Humber,7,Africa: South and Eastern Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,409
+E12000003,Yorkshire and The Humber,7,Africa: South and Eastern Africa,3,Economically active and a full-time student: In employment,282
+E12000003,Yorkshire and The Humber,7,Africa: South and Eastern Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,106
+E12000003,Yorkshire and The Humber,7,Africa: South and Eastern Africa,5,Economically inactive (excluding full-time students),1089
+E12000003,Yorkshire and The Humber,7,Africa: South and Eastern Africa,6,Economically inactive and a full-time student,540
+E12000003,Yorkshire and The Humber,8,Middle East and Asia: Middle East,-8,Does not apply,1576
+E12000003,Yorkshire and The Humber,8,Middle East and Asia: Middle East,1,Economically active (excluding full-time students): In employment,1213
+E12000003,Yorkshire and The Humber,8,Middle East and Asia: Middle East,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,266
+E12000003,Yorkshire and The Humber,8,Middle East and Asia: Middle East,3,Economically active and a full-time student: In employment,129
+E12000003,Yorkshire and The Humber,8,Middle East and Asia: Middle East,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,77
+E12000003,Yorkshire and The Humber,8,Middle East and Asia: Middle East,5,Economically inactive (excluding full-time students),1852
+E12000003,Yorkshire and The Humber,8,Middle East and Asia: Middle East,6,Economically inactive and a full-time student,2172
+E12000003,Yorkshire and The Humber,9,Middle East and Asia: Eastern Asia,-8,Does not apply,689
+E12000003,Yorkshire and The Humber,9,Middle East and Asia: Eastern Asia,1,Economically active (excluding full-time students): In employment,2865
+E12000003,Yorkshire and The Humber,9,Middle East and Asia: Eastern Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,171
+E12000003,Yorkshire and The Humber,9,Middle East and Asia: Eastern Asia,3,Economically active and a full-time student: In employment,129
+E12000003,Yorkshire and The Humber,9,Middle East and Asia: Eastern Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,61
+E12000003,Yorkshire and The Humber,9,Middle East and Asia: Eastern Asia,5,Economically inactive (excluding full-time students),1287
+E12000003,Yorkshire and The Humber,9,Middle East and Asia: Eastern Asia,6,Economically inactive and a full-time student,2015
+E12000003,Yorkshire and The Humber,10,Middle East and Asia: Southern Asia,-8,Does not apply,4668
+E12000003,Yorkshire and The Humber,10,Middle East and Asia: Southern Asia,1,Economically active (excluding full-time students): In employment,16909
+E12000003,Yorkshire and The Humber,10,Middle East and Asia: Southern Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1720
+E12000003,Yorkshire and The Humber,10,Middle East and Asia: Southern Asia,3,Economically active and a full-time student: In employment,875
+E12000003,Yorkshire and The Humber,10,Middle East and Asia: Southern Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,633
+E12000003,Yorkshire and The Humber,10,Middle East and Asia: Southern Asia,5,Economically inactive (excluding full-time students),15047
+E12000003,Yorkshire and The Humber,10,Middle East and Asia: Southern Asia,6,Economically inactive and a full-time student,2059
+E12000003,Yorkshire and The Humber,11,Middle East and Asia: South-East Asia,-8,Does not apply,569
+E12000003,Yorkshire and The Humber,11,Middle East and Asia: South-East Asia,1,Economically active (excluding full-time students): In employment,3466
+E12000003,Yorkshire and The Humber,11,Middle East and Asia: South-East Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,206
+E12000003,Yorkshire and The Humber,11,Middle East and Asia: South-East Asia,3,Economically active and a full-time student: In employment,169
+E12000003,Yorkshire and The Humber,11,Middle East and Asia: South-East Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,81
+E12000003,Yorkshire and The Humber,11,Middle East and Asia: South-East Asia,5,Economically inactive (excluding full-time students),1304
+E12000003,Yorkshire and The Humber,11,Middle East and Asia: South-East Asia,6,Economically inactive and a full-time student,770
+E12000003,Yorkshire and The Humber,12,Middle East and Asia: Central Asia,-8,Does not apply,14
+E12000003,Yorkshire and The Humber,12,Middle East and Asia: Central Asia,1,Economically active (excluding full-time students): In employment,32
+E12000003,Yorkshire and The Humber,12,Middle East and Asia: Central Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,9
+E12000003,Yorkshire and The Humber,12,Middle East and Asia: Central Asia,3,Economically active and a full-time student: In employment,9
+E12000003,Yorkshire and The Humber,12,Middle East and Asia: Central Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,3
+E12000003,Yorkshire and The Humber,12,Middle East and Asia: Central Asia,5,Economically inactive (excluding full-time students),24
+E12000003,Yorkshire and The Humber,12,Middle East and Asia: Central Asia,6,Economically inactive and a full-time student,21
+E12000003,Yorkshire and The Humber,13,The Americas and the Caribbean: North America,-8,Does not apply,873
+E12000003,Yorkshire and The Humber,13,The Americas and the Caribbean: North America,1,Economically active (excluding full-time students): In employment,3501
+E12000003,Yorkshire and The Humber,13,The Americas and the Caribbean: North America,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,162
+E12000003,Yorkshire and The Humber,13,The Americas and the Caribbean: North America,3,Economically active and a full-time student: In employment,138
+E12000003,Yorkshire and The Humber,13,The Americas and the Caribbean: North America,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,55
+E12000003,Yorkshire and The Humber,13,The Americas and the Caribbean: North America,5,Economically inactive (excluding full-time students),1407
+E12000003,Yorkshire and The Humber,13,The Americas and the Caribbean: North America,6,Economically inactive and a full-time student,454
+E12000003,Yorkshire and The Humber,14,The Americas and the Caribbean: Central and South America,-8,Does not apply,416
+E12000003,Yorkshire and The Humber,14,The Americas and the Caribbean: Central and South America,1,Economically active (excluding full-time students): In employment,2186
+E12000003,Yorkshire and The Humber,14,The Americas and the Caribbean: Central and South America,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,237
+E12000003,Yorkshire and The Humber,14,The Americas and the Caribbean: Central and South America,3,Economically active and a full-time student: In employment,126
+E12000003,Yorkshire and The Humber,14,The Americas and the Caribbean: Central and South America,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,45
+E12000003,Yorkshire and The Humber,14,The Americas and the Caribbean: Central and South America,5,Economically inactive (excluding full-time students),816
+E12000003,Yorkshire and The Humber,14,The Americas and the Caribbean: Central and South America,6,Economically inactive and a full-time student,347
+E12000003,Yorkshire and The Humber,15,"Antarctica and Oceania, including Australasia",-8,Does not apply,236
+E12000003,Yorkshire and The Humber,15,"Antarctica and Oceania, including Australasia",1,Economically active (excluding full-time students): In employment,1714
+E12000003,Yorkshire and The Humber,15,"Antarctica and Oceania, including Australasia",2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,71
+E12000003,Yorkshire and The Humber,15,"Antarctica and Oceania, including Australasia",3,Economically active and a full-time student: In employment,37
+E12000003,Yorkshire and The Humber,15,"Antarctica and Oceania, including Australasia",4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,5
+E12000003,Yorkshire and The Humber,15,"Antarctica and Oceania, including Australasia",5,Economically inactive (excluding full-time students),482
+E12000003,Yorkshire and The Humber,15,"Antarctica and Oceania, including Australasia",6,Economically inactive and a full-time student,76
+E12000003,Yorkshire and The Humber,16,British Overseas Territories,-8,Does not apply,20
+E12000003,Yorkshire and The Humber,16,British Overseas Territories,1,Economically active (excluding full-time students): In employment,14
+E12000003,Yorkshire and The Humber,16,British Overseas Territories,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,8
+E12000003,Yorkshire and The Humber,16,British Overseas Territories,3,Economically active and a full-time student: In employment,1
+E12000003,Yorkshire and The Humber,16,British Overseas Territories,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,2
+E12000003,Yorkshire and The Humber,16,British Overseas Territories,5,Economically inactive (excluding full-time students),12
+E12000003,Yorkshire and The Humber,16,British Overseas Territories,6,Economically inactive and a full-time student,5
+E12000003,Yorkshire and The Humber,17,No passport held,-8,Does not apply,269438
+E12000003,Yorkshire and The Humber,17,No passport held,1,Economically active (excluding full-time students): In employment,160820
+E12000003,Yorkshire and The Humber,17,No passport held,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,24878
+E12000003,Yorkshire and The Humber,17,No passport held,3,Economically active and a full-time student: In employment,3104
+E12000003,Yorkshire and The Humber,17,No passport held,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,2025
+E12000003,Yorkshire and The Humber,17,No passport held,5,Economically inactive (excluding full-time students),357325
+E12000003,Yorkshire and The Humber,17,No passport held,6,Economically inactive and a full-time student,22820
+E12000004,East Midlands,-8,Does not apply,-8,Does not apply,0
+E12000004,East Midlands,-8,Does not apply,1,Economically active (excluding full-time students): In employment,0
+E12000004,East Midlands,-8,Does not apply,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+E12000004,East Midlands,-8,Does not apply,3,Economically active and a full-time student: In employment,0
+E12000004,East Midlands,-8,Does not apply,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+E12000004,East Midlands,-8,Does not apply,5,Economically inactive (excluding full-time students),0
+E12000004,East Midlands,-8,Does not apply,6,Economically inactive and a full-time student,0
+E12000004,East Midlands,1,Europe: United Kingdom,-8,Does not apply,567495
+E12000004,East Midlands,1,Europe: United Kingdom,1,Economically active (excluding full-time students): In employment,1803393
+E12000004,East Midlands,1,Europe: United Kingdom,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,65281
+E12000004,East Midlands,1,Europe: United Kingdom,3,Economically active and a full-time student: In employment,47858
+E12000004,East Midlands,1,Europe: United Kingdom,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,14809
+E12000004,East Midlands,1,Europe: United Kingdom,5,Economically inactive (excluding full-time students),954039
+E12000004,East Midlands,1,Europe: United Kingdom,6,Economically inactive and a full-time student,144173
+E12000004,East Midlands,2,Europe: Ireland,-8,Does not apply,1303
+E12000004,East Midlands,2,Europe: Ireland,1,Economically active (excluding full-time students): In employment,8370
+E12000004,East Midlands,2,Europe: Ireland,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,327
+E12000004,East Midlands,2,Europe: Ireland,3,Economically active and a full-time student: In employment,246
+E12000004,East Midlands,2,Europe: Ireland,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,69
+E12000004,East Midlands,2,Europe: Ireland,5,Economically inactive (excluding full-time students),6453
+E12000004,East Midlands,2,Europe: Ireland,6,Economically inactive and a full-time student,737
+E12000004,East Midlands,3,Europe: Other Europe: EU Member countries,-8,Does not apply,54438
+E12000004,East Midlands,3,Europe: Other Europe: EU Member countries,1,Economically active (excluding full-time students): In employment,173767
+E12000004,East Midlands,3,Europe: Other Europe: EU Member countries,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,7098
+E12000004,East Midlands,3,Europe: Other Europe: EU Member countries,3,Economically active and a full-time student: In employment,7268
+E12000004,East Midlands,3,Europe: Other Europe: EU Member countries,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1777
+E12000004,East Midlands,3,Europe: Other Europe: EU Member countries,5,Economically inactive (excluding full-time students),30198
+E12000004,East Midlands,3,Europe: Other Europe: EU Member countries,6,Economically inactive and a full-time student,13361
+E12000004,East Midlands,4,Europe: Other Europe: Rest of Europe,-8,Does not apply,1154
+E12000004,East Midlands,4,Europe: Other Europe: Rest of Europe,1,Economically active (excluding full-time students): In employment,4011
+E12000004,East Midlands,4,Europe: Other Europe: Rest of Europe,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,325
+E12000004,East Midlands,4,Europe: Other Europe: Rest of Europe,3,Economically active and a full-time student: In employment,106
+E12000004,East Midlands,4,Europe: Other Europe: Rest of Europe,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,39
+E12000004,East Midlands,4,Europe: Other Europe: Rest of Europe,5,Economically inactive (excluding full-time students),1659
+E12000004,East Midlands,4,Europe: Other Europe: Rest of Europe,6,Economically inactive and a full-time student,426
+E12000004,East Midlands,5,Africa: North Africa,-8,Does not apply,870
+E12000004,East Midlands,5,Africa: North Africa,1,Economically active (excluding full-time students): In employment,1149
+E12000004,East Midlands,5,Africa: North Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,211
+E12000004,East Midlands,5,Africa: North Africa,3,Economically active and a full-time student: In employment,62
+E12000004,East Midlands,5,Africa: North Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,49
+E12000004,East Midlands,5,Africa: North Africa,5,Economically inactive (excluding full-time students),808
+E12000004,East Midlands,5,Africa: North Africa,6,Economically inactive and a full-time student,343
+E12000004,East Midlands,6,Africa: Central and Western Africa,-8,Does not apply,1688
+E12000004,East Midlands,6,Africa: Central and Western Africa,1,Economically active (excluding full-time students): In employment,5720
+E12000004,East Midlands,6,Africa: Central and Western Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,473
+E12000004,East Midlands,6,Africa: Central and Western Africa,3,Economically active and a full-time student: In employment,916
+E12000004,East Midlands,6,Africa: Central and Western Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,371
+E12000004,East Midlands,6,Africa: Central and Western Africa,5,Economically inactive (excluding full-time students),1310
+E12000004,East Midlands,6,Africa: Central and Western Africa,6,Economically inactive and a full-time student,1029
+E12000004,East Midlands,7,Africa: South and Eastern Africa,-8,Does not apply,853
+E12000004,East Midlands,7,Africa: South and Eastern Africa,1,Economically active (excluding full-time students): In employment,5501
+E12000004,East Midlands,7,Africa: South and Eastern Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,403
+E12000004,East Midlands,7,Africa: South and Eastern Africa,3,Economically active and a full-time student: In employment,426
+E12000004,East Midlands,7,Africa: South and Eastern Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,117
+E12000004,East Midlands,7,Africa: South and Eastern Africa,5,Economically inactive (excluding full-time students),1537
+E12000004,East Midlands,7,Africa: South and Eastern Africa,6,Economically inactive and a full-time student,695
+E12000004,East Midlands,8,Middle East and Asia: Middle East,-8,Does not apply,974
+E12000004,East Midlands,8,Middle East and Asia: Middle East,1,Economically active (excluding full-time students): In employment,788
+E12000004,East Midlands,8,Middle East and Asia: Middle East,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,141
+E12000004,East Midlands,8,Middle East and Asia: Middle East,3,Economically active and a full-time student: In employment,83
+E12000004,East Midlands,8,Middle East and Asia: Middle East,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,64
+E12000004,East Midlands,8,Middle East and Asia: Middle East,5,Economically inactive (excluding full-time students),874
+E12000004,East Midlands,8,Middle East and Asia: Middle East,6,Economically inactive and a full-time student,1160
+E12000004,East Midlands,9,Middle East and Asia: Eastern Asia,-8,Does not apply,505
+E12000004,East Midlands,9,Middle East and Asia: Eastern Asia,1,Economically active (excluding full-time students): In employment,2556
+E12000004,East Midlands,9,Middle East and Asia: Eastern Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,147
+E12000004,East Midlands,9,Middle East and Asia: Eastern Asia,3,Economically active and a full-time student: In employment,106
+E12000004,East Midlands,9,Middle East and Asia: Eastern Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,48
+E12000004,East Midlands,9,Middle East and Asia: Eastern Asia,5,Economically inactive (excluding full-time students),1017
+E12000004,East Midlands,9,Middle East and Asia: Eastern Asia,6,Economically inactive and a full-time student,1540
+E12000004,East Midlands,10,Middle East and Asia: Southern Asia,-8,Does not apply,6049
+E12000004,East Midlands,10,Middle East and Asia: Southern Asia,1,Economically active (excluding full-time students): In employment,21813
+E12000004,East Midlands,10,Middle East and Asia: Southern Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1624
+E12000004,East Midlands,10,Middle East and Asia: Southern Asia,3,Economically active and a full-time student: In employment,1637
+E12000004,East Midlands,10,Middle East and Asia: Southern Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,774
+E12000004,East Midlands,10,Middle East and Asia: Southern Asia,5,Economically inactive (excluding full-time students),14400
+E12000004,East Midlands,10,Middle East and Asia: Southern Asia,6,Economically inactive and a full-time student,2583
+E12000004,East Midlands,11,Middle East and Asia: South-East Asia,-8,Does not apply,489
+E12000004,East Midlands,11,Middle East and Asia: South-East Asia,1,Economically active (excluding full-time students): In employment,3446
+E12000004,East Midlands,11,Middle East and Asia: South-East Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,196
+E12000004,East Midlands,11,Middle East and Asia: South-East Asia,3,Economically active and a full-time student: In employment,147
+E12000004,East Midlands,11,Middle East and Asia: South-East Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,64
+E12000004,East Midlands,11,Middle East and Asia: South-East Asia,5,Economically inactive (excluding full-time students),1138
+E12000004,East Midlands,11,Middle East and Asia: South-East Asia,6,Economically inactive and a full-time student,612
+E12000004,East Midlands,12,Middle East and Asia: Central Asia,-8,Does not apply,25
+E12000004,East Midlands,12,Middle East and Asia: Central Asia,1,Economically active (excluding full-time students): In employment,49
+E12000004,East Midlands,12,Middle East and Asia: Central Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,3
+E12000004,East Midlands,12,Middle East and Asia: Central Asia,3,Economically active and a full-time student: In employment,5
+E12000004,East Midlands,12,Middle East and Asia: Central Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,3
+E12000004,East Midlands,12,Middle East and Asia: Central Asia,5,Economically inactive (excluding full-time students),24
+E12000004,East Midlands,12,Middle East and Asia: Central Asia,6,Economically inactive and a full-time student,7
+E12000004,East Midlands,13,The Americas and the Caribbean: North America,-8,Does not apply,879
+E12000004,East Midlands,13,The Americas and the Caribbean: North America,1,Economically active (excluding full-time students): In employment,3303
+E12000004,East Midlands,13,The Americas and the Caribbean: North America,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,180
+E12000004,East Midlands,13,The Americas and the Caribbean: North America,3,Economically active and a full-time student: In employment,110
+E12000004,East Midlands,13,The Americas and the Caribbean: North America,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,28
+E12000004,East Midlands,13,The Americas and the Caribbean: North America,5,Economically inactive (excluding full-time students),1572
+E12000004,East Midlands,13,The Americas and the Caribbean: North America,6,Economically inactive and a full-time student,325
+E12000004,East Midlands,14,The Americas and the Caribbean: Central and South America,-8,Does not apply,347
+E12000004,East Midlands,14,The Americas and the Caribbean: Central and South America,1,Economically active (excluding full-time students): In employment,2517
+E12000004,East Midlands,14,The Americas and the Caribbean: Central and South America,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,232
+E12000004,East Midlands,14,The Americas and the Caribbean: Central and South America,3,Economically active and a full-time student: In employment,101
+E12000004,East Midlands,14,The Americas and the Caribbean: Central and South America,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,32
+E12000004,East Midlands,14,The Americas and the Caribbean: Central and South America,5,Economically inactive (excluding full-time students),858
+E12000004,East Midlands,14,The Americas and the Caribbean: Central and South America,6,Economically inactive and a full-time student,304
+E12000004,East Midlands,15,"Antarctica and Oceania, including Australasia",-8,Does not apply,167
+E12000004,East Midlands,15,"Antarctica and Oceania, including Australasia",1,Economically active (excluding full-time students): In employment,1499
+E12000004,East Midlands,15,"Antarctica and Oceania, including Australasia",2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,50
+E12000004,East Midlands,15,"Antarctica and Oceania, including Australasia",3,Economically active and a full-time student: In employment,19
+E12000004,East Midlands,15,"Antarctica and Oceania, including Australasia",4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,5
+E12000004,East Midlands,15,"Antarctica and Oceania, including Australasia",5,Economically inactive (excluding full-time students),449
+E12000004,East Midlands,15,"Antarctica and Oceania, including Australasia",6,Economically inactive and a full-time student,59
+E12000004,East Midlands,16,British Overseas Territories,-8,Does not apply,14
+E12000004,East Midlands,16,British Overseas Territories,1,Economically active (excluding full-time students): In employment,20
+E12000004,East Midlands,16,British Overseas Territories,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,10
+E12000004,East Midlands,16,British Overseas Territories,3,Economically active and a full-time student: In employment,2
+E12000004,East Midlands,16,British Overseas Territories,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+E12000004,East Midlands,16,British Overseas Territories,5,Economically inactive (excluding full-time students),20
+E12000004,East Midlands,16,British Overseas Territories,6,Economically inactive and a full-time student,8
+E12000004,East Midlands,17,No passport held,-8,Does not apply,242496
+E12000004,East Midlands,17,No passport held,1,Economically active (excluding full-time students): In employment,160505
+E12000004,East Midlands,17,No passport held,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,18680
+E12000004,East Midlands,17,No passport held,3,Economically active and a full-time student: In employment,3097
+E12000004,East Midlands,17,No passport held,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1661
+E12000004,East Midlands,17,No passport held,5,Economically inactive (excluding full-time students),319245
+E12000004,East Midlands,17,No passport held,6,Economically inactive and a full-time student,19424
+E12000005,West Midlands,-8,Does not apply,-8,Does not apply,0
+E12000005,West Midlands,-8,Does not apply,1,Economically active (excluding full-time students): In employment,0
+E12000005,West Midlands,-8,Does not apply,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+E12000005,West Midlands,-8,Does not apply,3,Economically active and a full-time student: In employment,0
+E12000005,West Midlands,-8,Does not apply,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+E12000005,West Midlands,-8,Does not apply,5,Economically inactive (excluding full-time students),0
+E12000005,West Midlands,-8,Does not apply,6,Economically inactive and a full-time student,0
+E12000005,West Midlands,1,Europe: United Kingdom,-8,Does not apply,749894
+E12000005,West Midlands,1,Europe: United Kingdom,1,Economically active (excluding full-time students): In employment,2119707
+E12000005,West Midlands,1,Europe: United Kingdom,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,104717
+E12000005,West Midlands,1,Europe: United Kingdom,3,Economically active and a full-time student: In employment,56613
+E12000005,West Midlands,1,Europe: United Kingdom,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,20241
+E12000005,West Midlands,1,Europe: United Kingdom,5,Economically inactive (excluding full-time students),1172462
+E12000005,West Midlands,1,Europe: United Kingdom,6,Economically inactive and a full-time student,190454
+E12000005,West Midlands,2,Europe: Ireland,-8,Does not apply,1890
+E12000005,West Midlands,2,Europe: Ireland,1,Economically active (excluding full-time students): In employment,11928
+E12000005,West Midlands,2,Europe: Ireland,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,533
+E12000005,West Midlands,2,Europe: Ireland,3,Economically active and a full-time student: In employment,313
+E12000005,West Midlands,2,Europe: Ireland,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,142
+E12000005,West Midlands,2,Europe: Ireland,5,Economically inactive (excluding full-time students),13500
+E12000005,West Midlands,2,Europe: Ireland,6,Economically inactive and a full-time student,1063
+E12000005,West Midlands,3,Europe: Other Europe: EU Member countries,-8,Does not apply,65013
+E12000005,West Midlands,3,Europe: Other Europe: EU Member countries,1,Economically active (excluding full-time students): In employment,161848
+E12000005,West Midlands,3,Europe: Other Europe: EU Member countries,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,9983
+E12000005,West Midlands,3,Europe: Other Europe: EU Member countries,3,Economically active and a full-time student: In employment,10386
+E12000005,West Midlands,3,Europe: Other Europe: EU Member countries,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,2651
+E12000005,West Midlands,3,Europe: Other Europe: EU Member countries,5,Economically inactive (excluding full-time students),32320
+E12000005,West Midlands,3,Europe: Other Europe: EU Member countries,6,Economically inactive and a full-time student,18068
+E12000005,West Midlands,4,Europe: Other Europe: Rest of Europe,-8,Does not apply,2671
+E12000005,West Midlands,4,Europe: Other Europe: Rest of Europe,1,Economically active (excluding full-time students): In employment,4491
+E12000005,West Midlands,4,Europe: Other Europe: Rest of Europe,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,564
+E12000005,West Midlands,4,Europe: Other Europe: Rest of Europe,3,Economically active and a full-time student: In employment,199
+E12000005,West Midlands,4,Europe: Other Europe: Rest of Europe,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,117
+E12000005,West Midlands,4,Europe: Other Europe: Rest of Europe,5,Economically inactive (excluding full-time students),2218
+E12000005,West Midlands,4,Europe: Other Europe: Rest of Europe,6,Economically inactive and a full-time student,849
+E12000005,West Midlands,5,Africa: North Africa,-8,Does not apply,1305
+E12000005,West Midlands,5,Africa: North Africa,1,Economically active (excluding full-time students): In employment,1434
+E12000005,West Midlands,5,Africa: North Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,334
+E12000005,West Midlands,5,Africa: North Africa,3,Economically active and a full-time student: In employment,74
+E12000005,West Midlands,5,Africa: North Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,67
+E12000005,West Midlands,5,Africa: North Africa,5,Economically inactive (excluding full-time students),1301
+E12000005,West Midlands,5,Africa: North Africa,6,Economically inactive and a full-time student,526
+E12000005,West Midlands,6,Africa: Central and Western Africa,-8,Does not apply,2698
+E12000005,West Midlands,6,Africa: Central and Western Africa,1,Economically active (excluding full-time students): In employment,8807
+E12000005,West Midlands,6,Africa: Central and Western Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1219
+E12000005,West Midlands,6,Africa: Central and Western Africa,3,Economically active and a full-time student: In employment,1261
+E12000005,West Midlands,6,Africa: Central and Western Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,602
+E12000005,West Midlands,6,Africa: Central and Western Africa,5,Economically inactive (excluding full-time students),2792
+E12000005,West Midlands,6,Africa: Central and Western Africa,6,Economically inactive and a full-time student,1798
+E12000005,West Midlands,7,Africa: South and Eastern Africa,-8,Does not apply,1095
+E12000005,West Midlands,7,Africa: South and Eastern Africa,1,Economically active (excluding full-time students): In employment,5718
+E12000005,West Midlands,7,Africa: South and Eastern Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,605
+E12000005,West Midlands,7,Africa: South and Eastern Africa,3,Economically active and a full-time student: In employment,415
+E12000005,West Midlands,7,Africa: South and Eastern Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,153
+E12000005,West Midlands,7,Africa: South and Eastern Africa,5,Economically inactive (excluding full-time students),1815
+E12000005,West Midlands,7,Africa: South and Eastern Africa,6,Economically inactive and a full-time student,942
+E12000005,West Midlands,8,Middle East and Asia: Middle East,-8,Does not apply,1024
+E12000005,West Midlands,8,Middle East and Asia: Middle East,1,Economically active (excluding full-time students): In employment,1313
+E12000005,West Midlands,8,Middle East and Asia: Middle East,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,303
+E12000005,West Midlands,8,Middle East and Asia: Middle East,3,Economically active and a full-time student: In employment,87
+E12000005,West Midlands,8,Middle East and Asia: Middle East,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,81
+E12000005,West Midlands,8,Middle East and Asia: Middle East,5,Economically inactive (excluding full-time students),1602
+E12000005,West Midlands,8,Middle East and Asia: Middle East,6,Economically inactive and a full-time student,1192
+E12000005,West Midlands,9,Middle East and Asia: Eastern Asia,-8,Does not apply,1166
+E12000005,West Midlands,9,Middle East and Asia: Eastern Asia,1,Economically active (excluding full-time students): In employment,4245
+E12000005,West Midlands,9,Middle East and Asia: Eastern Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,211
+E12000005,West Midlands,9,Middle East and Asia: Eastern Asia,3,Economically active and a full-time student: In employment,178
+E12000005,West Midlands,9,Middle East and Asia: Eastern Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,112
+E12000005,West Midlands,9,Middle East and Asia: Eastern Asia,5,Economically inactive (excluding full-time students),1737
+E12000005,West Midlands,9,Middle East and Asia: Eastern Asia,6,Economically inactive and a full-time student,2014
+E12000005,West Midlands,10,Middle East and Asia: Southern Asia,-8,Does not apply,8911
+E12000005,West Midlands,10,Middle East and Asia: Southern Asia,1,Economically active (excluding full-time students): In employment,35812
+E12000005,West Midlands,10,Middle East and Asia: Southern Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,3592
+E12000005,West Midlands,10,Middle East and Asia: Southern Asia,3,Economically active and a full-time student: In employment,1922
+E12000005,West Midlands,10,Middle East and Asia: Southern Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1177
+E12000005,West Midlands,10,Middle East and Asia: Southern Asia,5,Economically inactive (excluding full-time students),33194
+E12000005,West Midlands,10,Middle East and Asia: Southern Asia,6,Economically inactive and a full-time student,4622
+E12000005,West Midlands,11,Middle East and Asia: South-East Asia,-8,Does not apply,660
+E12000005,West Midlands,11,Middle East and Asia: South-East Asia,1,Economically active (excluding full-time students): In employment,4158
+E12000005,West Midlands,11,Middle East and Asia: South-East Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,276
+E12000005,West Midlands,11,Middle East and Asia: South-East Asia,3,Economically active and a full-time student: In employment,118
+E12000005,West Midlands,11,Middle East and Asia: South-East Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,79
+E12000005,West Midlands,11,Middle East and Asia: South-East Asia,5,Economically inactive (excluding full-time students),1530
+E12000005,West Midlands,11,Middle East and Asia: South-East Asia,6,Economically inactive and a full-time student,750
+E12000005,West Midlands,12,Middle East and Asia: Central Asia,-8,Does not apply,24
+E12000005,West Midlands,12,Middle East and Asia: Central Asia,1,Economically active (excluding full-time students): In employment,66
+E12000005,West Midlands,12,Middle East and Asia: Central Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,14
+E12000005,West Midlands,12,Middle East and Asia: Central Asia,3,Economically active and a full-time student: In employment,3
+E12000005,West Midlands,12,Middle East and Asia: Central Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,4
+E12000005,West Midlands,12,Middle East and Asia: Central Asia,5,Economically inactive (excluding full-time students),36
+E12000005,West Midlands,12,Middle East and Asia: Central Asia,6,Economically inactive and a full-time student,37
+E12000005,West Midlands,13,The Americas and the Caribbean: North America,-8,Does not apply,746
+E12000005,West Midlands,13,The Americas and the Caribbean: North America,1,Economically active (excluding full-time students): In employment,2882
+E12000005,West Midlands,13,The Americas and the Caribbean: North America,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,213
+E12000005,West Midlands,13,The Americas and the Caribbean: North America,3,Economically active and a full-time student: In employment,99
+E12000005,West Midlands,13,The Americas and the Caribbean: North America,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,41
+E12000005,West Midlands,13,The Americas and the Caribbean: North America,5,Economically inactive (excluding full-time students),1469
+E12000005,West Midlands,13,The Americas and the Caribbean: North America,6,Economically inactive and a full-time student,358
+E12000005,West Midlands,14,The Americas and the Caribbean: Central and South America,-8,Does not apply,639
+E12000005,West Midlands,14,The Americas and the Caribbean: Central and South America,1,Economically active (excluding full-time students): In employment,5020
+E12000005,West Midlands,14,The Americas and the Caribbean: Central and South America,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,627
+E12000005,West Midlands,14,The Americas and the Caribbean: Central and South America,3,Economically active and a full-time student: In employment,226
+E12000005,West Midlands,14,The Americas and the Caribbean: Central and South America,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,73
+E12000005,West Midlands,14,The Americas and the Caribbean: Central and South America,5,Economically inactive (excluding full-time students),1958
+E12000005,West Midlands,14,The Americas and the Caribbean: Central and South America,6,Economically inactive and a full-time student,532
+E12000005,West Midlands,15,"Antarctica and Oceania, including Australasia",-8,Does not apply,200
+E12000005,West Midlands,15,"Antarctica and Oceania, including Australasia",1,Economically active (excluding full-time students): In employment,1700
+E12000005,West Midlands,15,"Antarctica and Oceania, including Australasia",2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,84
+E12000005,West Midlands,15,"Antarctica and Oceania, including Australasia",3,Economically active and a full-time student: In employment,26
+E12000005,West Midlands,15,"Antarctica and Oceania, including Australasia",4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,11
+E12000005,West Midlands,15,"Antarctica and Oceania, including Australasia",5,Economically inactive (excluding full-time students),491
+E12000005,West Midlands,15,"Antarctica and Oceania, including Australasia",6,Economically inactive and a full-time student,96
+E12000005,West Midlands,16,British Overseas Territories,-8,Does not apply,29
+E12000005,West Midlands,16,British Overseas Territories,1,Economically active (excluding full-time students): In employment,22
+E12000005,West Midlands,16,British Overseas Territories,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,12
+E12000005,West Midlands,16,British Overseas Territories,3,Economically active and a full-time student: In employment,2
+E12000005,West Midlands,16,British Overseas Territories,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+E12000005,West Midlands,16,British Overseas Territories,5,Economically inactive (excluding full-time students),21
+E12000005,West Midlands,16,British Overseas Territories,6,Economically inactive and a full-time student,6
+E12000005,West Midlands,17,No passport held,-8,Does not apply,308547
+E12000005,West Midlands,17,No passport held,1,Economically active (excluding full-time students): In employment,182335
+E12000005,West Midlands,17,No passport held,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,28373
+E12000005,West Midlands,17,No passport held,3,Economically active and a full-time student: In employment,3507
+E12000005,West Midlands,17,No passport held,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,2208
+E12000005,West Midlands,17,No passport held,5,Economically inactive (excluding full-time students),383507
+E12000005,West Midlands,17,No passport held,6,Economically inactive and a full-time student,26408
+E12000006,East of England,-8,Does not apply,-8,Does not apply,0
+E12000006,East of England,-8,Does not apply,1,Economically active (excluding full-time students): In employment,0
+E12000006,East of England,-8,Does not apply,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+E12000006,East of England,-8,Does not apply,3,Economically active and a full-time student: In employment,0
+E12000006,East of England,-8,Does not apply,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+E12000006,East of England,-8,Does not apply,5,Economically inactive (excluding full-time students),0
+E12000006,East of England,-8,Does not apply,6,Economically inactive and a full-time student,0
+E12000006,East of England,1,Europe: United Kingdom,-8,Does not apply,812161
+E12000006,East of England,1,Europe: United Kingdom,1,Economically active (excluding full-time students): In employment,2428795
+E12000006,East of England,1,Europe: United Kingdom,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,92835
+E12000006,East of England,1,Europe: United Kingdom,3,Economically active and a full-time student: In employment,53952
+E12000006,East of England,1,Europe: United Kingdom,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,16765
+E12000006,East of England,1,Europe: United Kingdom,5,Economically inactive (excluding full-time students),1261878
+E12000006,East of England,1,Europe: United Kingdom,6,Economically inactive and a full-time student,158484
+E12000006,East of England,2,Europe: Ireland,-8,Does not apply,3303
+E12000006,East of England,2,Europe: Ireland,1,Economically active (excluding full-time students): In employment,21068
+E12000006,East of England,2,Europe: Ireland,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,712
+E12000006,East of England,2,Europe: Ireland,3,Economically active and a full-time student: In employment,467
+E12000006,East of England,2,Europe: Ireland,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,144
+E12000006,East of England,2,Europe: Ireland,5,Economically inactive (excluding full-time students),13814
+E12000006,East of England,2,Europe: Ireland,6,Economically inactive and a full-time student,1306
+E12000006,East of England,3,Europe: Other Europe: EU Member countries,-8,Does not apply,64168
+E12000006,East of England,3,Europe: Other Europe: EU Member countries,1,Economically active (excluding full-time students): In employment,234888
+E12000006,East of England,3,Europe: Other Europe: EU Member countries,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,9895
+E12000006,East of England,3,Europe: Other Europe: EU Member countries,3,Economically active and a full-time student: In employment,10571
+E12000006,East of England,3,Europe: Other Europe: EU Member countries,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,2033
+E12000006,East of England,3,Europe: Other Europe: EU Member countries,5,Economically inactive (excluding full-time students),41167
+E12000006,East of England,3,Europe: Other Europe: EU Member countries,6,Economically inactive and a full-time student,14377
+E12000006,East of England,4,Europe: Other Europe: Rest of Europe,-8,Does not apply,1808
+E12000006,East of England,4,Europe: Other Europe: Rest of Europe,1,Economically active (excluding full-time students): In employment,8184
+E12000006,East of England,4,Europe: Other Europe: Rest of Europe,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,616
+E12000006,East of England,4,Europe: Other Europe: Rest of Europe,3,Economically active and a full-time student: In employment,217
+E12000006,East of England,4,Europe: Other Europe: Rest of Europe,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,52
+E12000006,East of England,4,Europe: Other Europe: Rest of Europe,5,Economically inactive (excluding full-time students),3288
+E12000006,East of England,4,Europe: Other Europe: Rest of Europe,6,Economically inactive and a full-time student,641
+E12000006,East of England,5,Africa: North Africa,-8,Does not apply,726
+E12000006,East of England,5,Africa: North Africa,1,Economically active (excluding full-time students): In employment,1649
+E12000006,East of England,5,Africa: North Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,223
+E12000006,East of England,5,Africa: North Africa,3,Economically active and a full-time student: In employment,49
+E12000006,East of England,5,Africa: North Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,29
+E12000006,East of England,5,Africa: North Africa,5,Economically inactive (excluding full-time students),836
+E12000006,East of England,5,Africa: North Africa,6,Economically inactive and a full-time student,224
+E12000006,East of England,6,Africa: Central and Western Africa,-8,Does not apply,2107
+E12000006,East of England,6,Africa: Central and Western Africa,1,Economically active (excluding full-time students): In employment,9573
+E12000006,East of England,6,Africa: Central and Western Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,870
+E12000006,East of England,6,Africa: Central and Western Africa,3,Economically active and a full-time student: In employment,1048
+E12000006,East of England,6,Africa: Central and Western Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,371
+E12000006,East of England,6,Africa: Central and Western Africa,5,Economically inactive (excluding full-time students),2277
+E12000006,East of England,6,Africa: Central and Western Africa,6,Economically inactive and a full-time student,1225
+E12000006,East of England,7,Africa: South and Eastern Africa,-8,Does not apply,1513
+E12000006,East of England,7,Africa: South and Eastern Africa,1,Economically active (excluding full-time students): In employment,8768
+E12000006,East of England,7,Africa: South and Eastern Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,604
+E12000006,East of England,7,Africa: South and Eastern Africa,3,Economically active and a full-time student: In employment,395
+E12000006,East of England,7,Africa: South and Eastern Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,118
+E12000006,East of England,7,Africa: South and Eastern Africa,5,Economically inactive (excluding full-time students),1990
+E12000006,East of England,7,Africa: South and Eastern Africa,6,Economically inactive and a full-time student,788
+E12000006,East of England,8,Middle East and Asia: Middle East,-8,Does not apply,603
+E12000006,East of England,8,Middle East and Asia: Middle East,1,Economically active (excluding full-time students): In employment,1161
+E12000006,East of England,8,Middle East and Asia: Middle East,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,118
+E12000006,East of England,8,Middle East and Asia: Middle East,3,Economically active and a full-time student: In employment,68
+E12000006,East of England,8,Middle East and Asia: Middle East,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,26
+E12000006,East of England,8,Middle East and Asia: Middle East,5,Economically inactive (excluding full-time students),765
+E12000006,East of England,8,Middle East and Asia: Middle East,6,Economically inactive and a full-time student,424
+E12000006,East of England,9,Middle East and Asia: Eastern Asia,-8,Does not apply,1164
+E12000006,East of England,9,Middle East and Asia: Eastern Asia,1,Economically active (excluding full-time students): In employment,5117
+E12000006,East of England,9,Middle East and Asia: Eastern Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,220
+E12000006,East of England,9,Middle East and Asia: Eastern Asia,3,Economically active and a full-time student: In employment,134
+E12000006,East of England,9,Middle East and Asia: Eastern Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,36
+E12000006,East of England,9,Middle East and Asia: Eastern Asia,5,Economically inactive (excluding full-time students),2008
+E12000006,East of England,9,Middle East and Asia: Eastern Asia,6,Economically inactive and a full-time student,1483
+E12000006,East of England,10,Middle East and Asia: Southern Asia,-8,Does not apply,7192
+E12000006,East of England,10,Middle East and Asia: Southern Asia,1,Economically active (excluding full-time students): In employment,26005
+E12000006,East of England,10,Middle East and Asia: Southern Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1707
+E12000006,East of England,10,Middle East and Asia: Southern Asia,3,Economically active and a full-time student: In employment,2208
+E12000006,East of England,10,Middle East and Asia: Southern Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,838
+E12000006,East of England,10,Middle East and Asia: Southern Asia,5,Economically inactive (excluding full-time students),12029
+E12000006,East of England,10,Middle East and Asia: Southern Asia,6,Economically inactive and a full-time student,2793
+E12000006,East of England,11,Middle East and Asia: South-East Asia,-8,Does not apply,931
+E12000006,East of England,11,Middle East and Asia: South-East Asia,1,Economically active (excluding full-time students): In employment,8491
+E12000006,East of England,11,Middle East and Asia: South-East Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,348
+E12000006,East of England,11,Middle East and Asia: South-East Asia,3,Economically active and a full-time student: In employment,153
+E12000006,East of England,11,Middle East and Asia: South-East Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,59
+E12000006,East of England,11,Middle East and Asia: South-East Asia,5,Economically inactive (excluding full-time students),2309
+E12000006,East of England,11,Middle East and Asia: South-East Asia,6,Economically inactive and a full-time student,723
+E12000006,East of England,12,Middle East and Asia: Central Asia,-8,Does not apply,23
+E12000006,East of England,12,Middle East and Asia: Central Asia,1,Economically active (excluding full-time students): In employment,147
+E12000006,East of England,12,Middle East and Asia: Central Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,10
+E12000006,East of England,12,Middle East and Asia: Central Asia,3,Economically active and a full-time student: In employment,18
+E12000006,East of England,12,Middle East and Asia: Central Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,3
+E12000006,East of England,12,Middle East and Asia: Central Asia,5,Economically inactive (excluding full-time students),62
+E12000006,East of England,12,Middle East and Asia: Central Asia,6,Economically inactive and a full-time student,23
+E12000006,East of England,13,The Americas and the Caribbean: North America,-8,Does not apply,5345
+E12000006,East of England,13,The Americas and the Caribbean: North America,1,Economically active (excluding full-time students): In employment,14988
+E12000006,East of England,13,The Americas and the Caribbean: North America,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,471
+E12000006,East of England,13,The Americas and the Caribbean: North America,3,Economically active and a full-time student: In employment,622
+E12000006,East of England,13,The Americas and the Caribbean: North America,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,79
+E12000006,East of England,13,The Americas and the Caribbean: North America,5,Economically inactive (excluding full-time students),5438
+E12000006,East of England,13,The Americas and the Caribbean: North America,6,Economically inactive and a full-time student,1462
+E12000006,East of England,14,The Americas and the Caribbean: Central and South America,-8,Does not apply,918
+E12000006,East of England,14,The Americas and the Caribbean: Central and South America,1,Economically active (excluding full-time students): In employment,5780
+E12000006,East of England,14,The Americas and the Caribbean: Central and South America,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,477
+E12000006,East of England,14,The Americas and the Caribbean: Central and South America,3,Economically active and a full-time student: In employment,215
+E12000006,East of England,14,The Americas and the Caribbean: Central and South America,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,50
+E12000006,East of England,14,The Americas and the Caribbean: Central and South America,5,Economically inactive (excluding full-time students),1772
+E12000006,East of England,14,The Americas and the Caribbean: Central and South America,6,Economically inactive and a full-time student,443
+E12000006,East of England,15,"Antarctica and Oceania, including Australasia",-8,Does not apply,308
+E12000006,East of England,15,"Antarctica and Oceania, including Australasia",1,Economically active (excluding full-time students): In employment,4235
+E12000006,East of England,15,"Antarctica and Oceania, including Australasia",2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,120
+E12000006,East of England,15,"Antarctica and Oceania, including Australasia",3,Economically active and a full-time student: In employment,56
+E12000006,East of England,15,"Antarctica and Oceania, including Australasia",4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,18
+E12000006,East of England,15,"Antarctica and Oceania, including Australasia",5,Economically inactive (excluding full-time students),1064
+E12000006,East of England,15,"Antarctica and Oceania, including Australasia",6,Economically inactive and a full-time student,178
+E12000006,East of England,16,British Overseas Territories,-8,Does not apply,11
+E12000006,East of England,16,British Overseas Territories,1,Economically active (excluding full-time students): In employment,14
+E12000006,East of England,16,British Overseas Territories,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1
+E12000006,East of England,16,British Overseas Territories,3,Economically active and a full-time student: In employment,2
+E12000006,East of England,16,British Overseas Territories,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+E12000006,East of England,16,British Overseas Territories,5,Economically inactive (excluding full-time students),7
+E12000006,East of England,16,British Overseas Territories,6,Economically inactive and a full-time student,0
+E12000006,East of England,17,No passport held,-8,Does not apply,281739
+E12000006,East of England,17,No passport held,1,Economically active (excluding full-time students): In employment,162751
+E12000006,East of England,17,No passport held,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,18902
+E12000006,East of England,17,No passport held,3,Economically active and a full-time student: In employment,3115
+E12000006,East of England,17,No passport held,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1684
+E12000006,East of England,17,No passport held,5,Economically inactive (excluding full-time students),335373
+E12000006,East of England,17,No passport held,6,Economically inactive and a full-time student,18649
+E12000007,London,-8,Does not apply,-8,Does not apply,0
+E12000007,London,-8,Does not apply,1,Economically active (excluding full-time students): In employment,0
+E12000007,London,-8,Does not apply,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+E12000007,London,-8,Does not apply,3,Economically active and a full-time student: In employment,0
+E12000007,London,-8,Does not apply,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+E12000007,London,-8,Does not apply,5,Economically inactive (excluding full-time students),0
+E12000007,London,-8,Does not apply,6,Economically inactive and a full-time student,0
+E12000007,London,1,Europe: United Kingdom,-8,Does not apply,1254128
+E12000007,London,1,Europe: United Kingdom,1,Economically active (excluding full-time students): In employment,2964308
+E12000007,London,1,Europe: United Kingdom,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,194063
+E12000007,London,1,Europe: United Kingdom,3,Economically active and a full-time student: In employment,75655
+E12000007,London,1,Europe: United Kingdom,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,29380
+E12000007,London,1,Europe: United Kingdom,5,Economically inactive (excluding full-time students),1349233
+E12000007,London,1,Europe: United Kingdom,6,Economically inactive and a full-time student,337575
+E12000007,London,2,Europe: Ireland,-8,Does not apply,7734
+E12000007,London,2,Europe: Ireland,1,Economically active (excluding full-time students): In employment,66006
+E12000007,London,2,Europe: Ireland,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,3018
+E12000007,London,2,Europe: Ireland,3,Economically active and a full-time student: In employment,1155
+E12000007,London,2,Europe: Ireland,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,367
+E12000007,London,2,Europe: Ireland,5,Economically inactive (excluding full-time students),37739
+E12000007,London,2,Europe: Ireland,6,Economically inactive and a full-time student,3984
+E12000007,London,3,Europe: Other Europe: EU Member countries,-8,Does not apply,167953
+E12000007,London,3,Europe: Other Europe: EU Member countries,1,Economically active (excluding full-time students): In employment,713575
+E12000007,London,3,Europe: Other Europe: EU Member countries,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,46481
+E12000007,London,3,Europe: Other Europe: EU Member countries,3,Economically active and a full-time student: In employment,37231
+E12000007,London,3,Europe: Other Europe: EU Member countries,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,8594
+E12000007,London,3,Europe: Other Europe: EU Member countries,5,Economically inactive (excluding full-time students),131458
+E12000007,London,3,Europe: Other Europe: EU Member countries,6,Economically inactive and a full-time student,64035
+E12000007,London,4,Europe: Other Europe: Rest of Europe,-8,Does not apply,9434
+E12000007,London,4,Europe: Other Europe: Rest of Europe,1,Economically active (excluding full-time students): In employment,46047
+E12000007,London,4,Europe: Other Europe: Rest of Europe,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,3682
+E12000007,London,4,Europe: Other Europe: Rest of Europe,3,Economically active and a full-time student: In employment,1246
+E12000007,London,4,Europe: Other Europe: Rest of Europe,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,550
+E12000007,London,4,Europe: Other Europe: Rest of Europe,5,Economically inactive (excluding full-time students),16036
+E12000007,London,4,Europe: Other Europe: Rest of Europe,6,Economically inactive and a full-time student,5116
+E12000007,London,5,Africa: North Africa,-8,Does not apply,1819
+E12000007,London,5,Africa: North Africa,1,Economically active (excluding full-time students): In employment,6633
+E12000007,London,5,Africa: North Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1147
+E12000007,London,5,Africa: North Africa,3,Economically active and a full-time student: In employment,194
+E12000007,London,5,Africa: North Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,192
+E12000007,London,5,Africa: North Africa,5,Economically inactive (excluding full-time students),4979
+E12000007,London,5,Africa: North Africa,6,Economically inactive and a full-time student,1348
+E12000007,London,6,Africa: Central and Western Africa,-8,Does not apply,5513
+E12000007,London,6,Africa: Central and Western Africa,1,Economically active (excluding full-time students): In employment,39882
+E12000007,London,6,Africa: Central and Western Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,4565
+E12000007,London,6,Africa: Central and Western Africa,3,Economically active and a full-time student: In employment,3107
+E12000007,London,6,Africa: Central and Western Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1068
+E12000007,London,6,Africa: Central and Western Africa,5,Economically inactive (excluding full-time students),14838
+E12000007,London,6,Africa: Central and Western Africa,6,Economically inactive and a full-time student,4790
+E12000007,London,7,Africa: South and Eastern Africa,-8,Does not apply,2094
+E12000007,London,7,Africa: South and Eastern Africa,1,Economically active (excluding full-time students): In employment,19930
+E12000007,London,7,Africa: South and Eastern Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1730
+E12000007,London,7,Africa: South and Eastern Africa,3,Economically active and a full-time student: In employment,679
+E12000007,London,7,Africa: South and Eastern Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,325
+E12000007,London,7,Africa: South and Eastern Africa,5,Economically inactive (excluding full-time students),5817
+E12000007,London,7,Africa: South and Eastern Africa,6,Economically inactive and a full-time student,1797
+E12000007,London,8,Middle East and Asia: Middle East,-8,Does not apply,3597
+E12000007,London,8,Middle East and Asia: Middle East,1,Economically active (excluding full-time students): In employment,7696
+E12000007,London,8,Middle East and Asia: Middle East,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,896
+E12000007,London,8,Middle East and Asia: Middle East,3,Economically active and a full-time student: In employment,413
+E12000007,London,8,Middle East and Asia: Middle East,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,265
+E12000007,London,8,Middle East and Asia: Middle East,5,Economically inactive (excluding full-time students),5914
+E12000007,London,8,Middle East and Asia: Middle East,6,Economically inactive and a full-time student,3039
+E12000007,London,9,Middle East and Asia: Eastern Asia,-8,Does not apply,5884
+E12000007,London,9,Middle East and Asia: Eastern Asia,1,Economically active (excluding full-time students): In employment,30841
+E12000007,London,9,Middle East and Asia: Eastern Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1254
+E12000007,London,9,Middle East and Asia: Eastern Asia,3,Economically active and a full-time student: In employment,897
+E12000007,London,9,Middle East and Asia: Eastern Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,408
+E12000007,London,9,Middle East and Asia: Eastern Asia,5,Economically inactive (excluding full-time students),10352
+E12000007,London,9,Middle East and Asia: Eastern Asia,6,Economically inactive and a full-time student,9097
+E12000007,London,10,Middle East and Asia: Southern Asia,-8,Does not apply,26519
+E12000007,London,10,Middle East and Asia: Southern Asia,1,Economically active (excluding full-time students): In employment,102267
+E12000007,London,10,Middle East and Asia: Southern Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,9087
+E12000007,London,10,Middle East and Asia: Southern Asia,3,Economically active and a full-time student: In employment,7080
+E12000007,London,10,Middle East and Asia: Southern Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,3116
+E12000007,London,10,Middle East and Asia: Southern Asia,5,Economically inactive (excluding full-time students),65510
+E12000007,London,10,Middle East and Asia: Southern Asia,6,Economically inactive and a full-time student,14000
+E12000007,London,11,Middle East and Asia: South-East Asia,-8,Does not apply,2312
+E12000007,London,11,Middle East and Asia: South-East Asia,1,Economically active (excluding full-time students): In employment,27662
+E12000007,London,11,Middle East and Asia: South-East Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1359
+E12000007,London,11,Middle East and Asia: South-East Asia,3,Economically active and a full-time student: In employment,604
+E12000007,London,11,Middle East and Asia: South-East Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,303
+E12000007,London,11,Middle East and Asia: South-East Asia,5,Economically inactive (excluding full-time students),8247
+E12000007,London,11,Middle East and Asia: South-East Asia,6,Economically inactive and a full-time student,3934
+E12000007,London,12,Middle East and Asia: Central Asia,-8,Does not apply,352
+E12000007,London,12,Middle East and Asia: Central Asia,1,Economically active (excluding full-time students): In employment,1213
+E12000007,London,12,Middle East and Asia: Central Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,118
+E12000007,London,12,Middle East and Asia: Central Asia,3,Economically active and a full-time student: In employment,98
+E12000007,London,12,Middle East and Asia: Central Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,57
+E12000007,London,12,Middle East and Asia: Central Asia,5,Economically inactive (excluding full-time students),419
+E12000007,London,12,Middle East and Asia: Central Asia,6,Economically inactive and a full-time student,300
+E12000007,London,13,The Americas and the Caribbean: North America,-8,Does not apply,6590
+E12000007,London,13,The Americas and the Caribbean: North America,1,Economically active (excluding full-time students): In employment,36455
+E12000007,London,13,The Americas and the Caribbean: North America,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1466
+E12000007,London,13,The Americas and the Caribbean: North America,3,Economically active and a full-time student: In employment,1045
+E12000007,London,13,The Americas and the Caribbean: North America,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,509
+E12000007,London,13,The Americas and the Caribbean: North America,5,Economically inactive (excluding full-time students),7702
+E12000007,London,13,The Americas and the Caribbean: North America,6,Economically inactive and a full-time student,4085
+E12000007,London,14,The Americas and the Caribbean: Central and South America,-8,Does not apply,5087
+E12000007,London,14,The Americas and the Caribbean: Central and South America,1,Economically active (excluding full-time students): In employment,43736
+E12000007,London,14,The Americas and the Caribbean: Central and South America,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,4707
+E12000007,London,14,The Americas and the Caribbean: Central and South America,3,Economically active and a full-time student: In employment,1575
+E12000007,London,14,The Americas and the Caribbean: Central and South America,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,527
+E12000007,London,14,The Americas and the Caribbean: Central and South America,5,Economically inactive (excluding full-time students),13487
+E12000007,London,14,The Americas and the Caribbean: Central and South America,6,Economically inactive and a full-time student,3690
+E12000007,London,15,"Antarctica and Oceania, including Australasia",-8,Does not apply,1532
+E12000007,London,15,"Antarctica and Oceania, including Australasia",1,Economically active (excluding full-time students): In employment,30338
+E12000007,London,15,"Antarctica and Oceania, including Australasia",2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,787
+E12000007,London,15,"Antarctica and Oceania, including Australasia",3,Economically active and a full-time student: In employment,262
+E12000007,London,15,"Antarctica and Oceania, including Australasia",4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,67
+E12000007,London,15,"Antarctica and Oceania, including Australasia",5,Economically inactive (excluding full-time students),3118
+E12000007,London,15,"Antarctica and Oceania, including Australasia",6,Economically inactive and a full-time student,694
+E12000007,London,16,British Overseas Territories,-8,Does not apply,11
+E12000007,London,16,British Overseas Territories,1,Economically active (excluding full-time students): In employment,34
+E12000007,London,16,British Overseas Territories,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,9
+E12000007,London,16,British Overseas Territories,3,Economically active and a full-time student: In employment,0
+E12000007,London,16,British Overseas Territories,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,2
+E12000007,London,16,British Overseas Territories,5,Economically inactive (excluding full-time students),21
+E12000007,London,16,British Overseas Territories,6,Economically inactive and a full-time student,12
+E12000007,London,17,No passport held,-8,Does not apply,193053
+E12000007,London,17,No passport held,1,Economically active (excluding full-time students): In employment,75965
+E12000007,London,17,No passport held,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,14416
+E12000007,London,17,No passport held,3,Economically active and a full-time student: In employment,2524
+E12000007,London,17,No passport held,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1428
+E12000007,London,17,No passport held,5,Economically inactive (excluding full-time students),173855
+E12000007,London,17,No passport held,6,Economically inactive and a full-time student,17706
+E12000008,South East,-8,Does not apply,-8,Does not apply,0
+E12000008,South East,-8,Does not apply,1,Economically active (excluding full-time students): In employment,0
+E12000008,South East,-8,Does not apply,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+E12000008,South East,-8,Does not apply,3,Economically active and a full-time student: In employment,0
+E12000008,South East,-8,Does not apply,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+E12000008,South East,-8,Does not apply,5,Economically inactive (excluding full-time students),0
+E12000008,South East,-8,Does not apply,6,Economically inactive and a full-time student,0
+E12000008,South East,1,Europe: United Kingdom,-8,Does not apply,1231333
+E12000008,South East,1,Europe: United Kingdom,1,Economically active (excluding full-time students): In employment,3645951
+E12000008,South East,1,Europe: United Kingdom,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,140298
+E12000008,South East,1,Europe: United Kingdom,3,Economically active and a full-time student: In employment,88786
+E12000008,South East,1,Europe: United Kingdom,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,27964
+E12000008,South East,1,Europe: United Kingdom,5,Economically inactive (excluding full-time students),1872876
+E12000008,South East,1,Europe: United Kingdom,6,Economically inactive and a full-time student,259540
+E12000008,South East,2,Europe: Ireland,-8,Does not apply,4691
+E12000008,South East,2,Europe: Ireland,1,Economically active (excluding full-time students): In employment,30349
+E12000008,South East,2,Europe: Ireland,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1099
+E12000008,South East,2,Europe: Ireland,3,Economically active and a full-time student: In employment,703
+E12000008,South East,2,Europe: Ireland,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,224
+E12000008,South East,2,Europe: Ireland,5,Economically inactive (excluding full-time students),17616
+E12000008,South East,2,Europe: Ireland,6,Economically inactive and a full-time student,2053
+E12000008,South East,3,Europe: Other Europe: EU Member countries,-8,Does not apply,71678
+E12000008,South East,3,Europe: Other Europe: EU Member countries,1,Economically active (excluding full-time students): In employment,314077
+E12000008,South East,3,Europe: Other Europe: EU Member countries,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,13125
+E12000008,South East,3,Europe: Other Europe: EU Member countries,3,Economically active and a full-time student: In employment,10973
+E12000008,South East,3,Europe: Other Europe: EU Member countries,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,2487
+E12000008,South East,3,Europe: Other Europe: EU Member countries,5,Economically inactive (excluding full-time students),53402
+E12000008,South East,3,Europe: Other Europe: EU Member countries,6,Economically inactive and a full-time student,19572
+E12000008,South East,4,Europe: Other Europe: Rest of Europe,-8,Does not apply,3011
+E12000008,South East,4,Europe: Other Europe: Rest of Europe,1,Economically active (excluding full-time students): In employment,12103
+E12000008,South East,4,Europe: Other Europe: Rest of Europe,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,818
+E12000008,South East,4,Europe: Other Europe: Rest of Europe,3,Economically active and a full-time student: In employment,380
+E12000008,South East,4,Europe: Other Europe: Rest of Europe,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,129
+E12000008,South East,4,Europe: Other Europe: Rest of Europe,5,Economically inactive (excluding full-time students),4645
+E12000008,South East,4,Europe: Other Europe: Rest of Europe,6,Economically inactive and a full-time student,1453
+E12000008,South East,5,Africa: North Africa,-8,Does not apply,1143
+E12000008,South East,5,Africa: North Africa,1,Economically active (excluding full-time students): In employment,2555
+E12000008,South East,5,Africa: North Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,315
+E12000008,South East,5,Africa: North Africa,3,Economically active and a full-time student: In employment,96
+E12000008,South East,5,Africa: North Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,65
+E12000008,South East,5,Africa: North Africa,5,Economically inactive (excluding full-time students),1298
+E12000008,South East,5,Africa: North Africa,6,Economically inactive and a full-time student,451
+E12000008,South East,6,Africa: Central and Western Africa,-8,Does not apply,2503
+E12000008,South East,6,Africa: Central and Western Africa,1,Economically active (excluding full-time students): In employment,11910
+E12000008,South East,6,Africa: Central and Western Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1020
+E12000008,South East,6,Africa: Central and Western Africa,3,Economically active and a full-time student: In employment,1051
+E12000008,South East,6,Africa: Central and Western Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,373
+E12000008,South East,6,Africa: Central and Western Africa,5,Economically inactive (excluding full-time students),2763
+E12000008,South East,6,Africa: Central and Western Africa,6,Economically inactive and a full-time student,1438
+E12000008,South East,7,Africa: South and Eastern Africa,-8,Does not apply,3873
+E12000008,South East,7,Africa: South and Eastern Africa,1,Economically active (excluding full-time students): In employment,17594
+E12000008,South East,7,Africa: South and Eastern Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1270
+E12000008,South East,7,Africa: South and Eastern Africa,3,Economically active and a full-time student: In employment,673
+E12000008,South East,7,Africa: South and Eastern Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,248
+E12000008,South East,7,Africa: South and Eastern Africa,5,Economically inactive (excluding full-time students),3487
+E12000008,South East,7,Africa: South and Eastern Africa,6,Economically inactive and a full-time student,1573
+E12000008,South East,8,Middle East and Asia: Middle East,-8,Does not apply,1226
+E12000008,South East,8,Middle East and Asia: Middle East,1,Economically active (excluding full-time students): In employment,2127
+E12000008,South East,8,Middle East and Asia: Middle East,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,216
+E12000008,South East,8,Middle East and Asia: Middle East,3,Economically active and a full-time student: In employment,148
+E12000008,South East,8,Middle East and Asia: Middle East,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,74
+E12000008,South East,8,Middle East and Asia: Middle East,5,Economically inactive (excluding full-time students),1400
+E12000008,South East,8,Middle East and Asia: Middle East,6,Economically inactive and a full-time student,1404
+E12000008,South East,9,Middle East and Asia: Eastern Asia,-8,Does not apply,2601
+E12000008,South East,9,Middle East and Asia: Eastern Asia,1,Economically active (excluding full-time students): In employment,9494
+E12000008,South East,9,Middle East and Asia: Eastern Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,413
+E12000008,South East,9,Middle East and Asia: Eastern Asia,3,Economically active and a full-time student: In employment,246
+E12000008,South East,9,Middle East and Asia: Eastern Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,86
+E12000008,South East,9,Middle East and Asia: Eastern Asia,5,Economically inactive (excluding full-time students),4132
+E12000008,South East,9,Middle East and Asia: Eastern Asia,6,Economically inactive and a full-time student,2587
+E12000008,South East,10,Middle East and Asia: Southern Asia,-8,Does not apply,13051
+E12000008,South East,10,Middle East and Asia: Southern Asia,1,Economically active (excluding full-time students): In employment,50096
+E12000008,South East,10,Middle East and Asia: Southern Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,3251
+E12000008,South East,10,Middle East and Asia: Southern Asia,3,Economically active and a full-time student: In employment,1809
+E12000008,South East,10,Middle East and Asia: Southern Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,697
+E12000008,South East,10,Middle East and Asia: Southern Asia,5,Economically inactive (excluding full-time students),24763
+E12000008,South East,10,Middle East and Asia: Southern Asia,6,Economically inactive and a full-time student,3527
+E12000008,South East,11,Middle East and Asia: South-East Asia,-8,Does not apply,1510
+E12000008,South East,11,Middle East and Asia: South-East Asia,1,Economically active (excluding full-time students): In employment,12548
+E12000008,South East,11,Middle East and Asia: South-East Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,528
+E12000008,South East,11,Middle East and Asia: South-East Asia,3,Economically active and a full-time student: In employment,273
+E12000008,South East,11,Middle East and Asia: South-East Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,105
+E12000008,South East,11,Middle East and Asia: South-East Asia,5,Economically inactive (excluding full-time students),3710
+E12000008,South East,11,Middle East and Asia: South-East Asia,6,Economically inactive and a full-time student,1201
+E12000008,South East,12,Middle East and Asia: Central Asia,-8,Does not apply,106
+E12000008,South East,12,Middle East and Asia: Central Asia,1,Economically active (excluding full-time students): In employment,269
+E12000008,South East,12,Middle East and Asia: Central Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,32
+E12000008,South East,12,Middle East and Asia: Central Asia,3,Economically active and a full-time student: In employment,23
+E12000008,South East,12,Middle East and Asia: Central Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,9
+E12000008,South East,12,Middle East and Asia: Central Asia,5,Economically inactive (excluding full-time students),121
+E12000008,South East,12,Middle East and Asia: Central Asia,6,Economically inactive and a full-time student,68
+E12000008,South East,13,The Americas and the Caribbean: North America,-8,Does not apply,2804
+E12000008,South East,13,The Americas and the Caribbean: North America,1,Economically active (excluding full-time students): In employment,12459
+E12000008,South East,13,The Americas and the Caribbean: North America,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,570
+E12000008,South East,13,The Americas and the Caribbean: North America,3,Economically active and a full-time student: In employment,414
+E12000008,South East,13,The Americas and the Caribbean: North America,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,132
+E12000008,South East,13,The Americas and the Caribbean: North America,5,Economically inactive (excluding full-time students),5257
+E12000008,South East,13,The Americas and the Caribbean: North America,6,Economically inactive and a full-time student,1431
+E12000008,South East,14,The Americas and the Caribbean: Central and South America,-8,Does not apply,2018
+E12000008,South East,14,The Americas and the Caribbean: Central and South America,1,Economically active (excluding full-time students): In employment,10744
+E12000008,South East,14,The Americas and the Caribbean: Central and South America,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,823
+E12000008,South East,14,The Americas and the Caribbean: Central and South America,3,Economically active and a full-time student: In employment,323
+E12000008,South East,14,The Americas and the Caribbean: Central and South America,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,126
+E12000008,South East,14,The Americas and the Caribbean: Central and South America,5,Economically inactive (excluding full-time students),2882
+E12000008,South East,14,The Americas and the Caribbean: Central and South America,6,Economically inactive and a full-time student,830
+E12000008,South East,15,"Antarctica and Oceania, including Australasia",-8,Does not apply,826
+E12000008,South East,15,"Antarctica and Oceania, including Australasia",1,Economically active (excluding full-time students): In employment,8819
+E12000008,South East,15,"Antarctica and Oceania, including Australasia",2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,301
+E12000008,South East,15,"Antarctica and Oceania, including Australasia",3,Economically active and a full-time student: In employment,114
+E12000008,South East,15,"Antarctica and Oceania, including Australasia",4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,25
+E12000008,South East,15,"Antarctica and Oceania, including Australasia",5,Economically inactive (excluding full-time students),2638
+E12000008,South East,15,"Antarctica and Oceania, including Australasia",6,Economically inactive and a full-time student,373
+E12000008,South East,16,British Overseas Territories,-8,Does not apply,15
+E12000008,South East,16,British Overseas Territories,1,Economically active (excluding full-time students): In employment,28
+E12000008,South East,16,British Overseas Territories,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1
+E12000008,South East,16,British Overseas Territories,3,Economically active and a full-time student: In employment,2
+E12000008,South East,16,British Overseas Territories,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+E12000008,South East,16,British Overseas Territories,5,Economically inactive (excluding full-time students),14
+E12000008,South East,16,British Overseas Territories,6,Economically inactive and a full-time student,4
+E12000008,South East,17,No passport held,-8,Does not apply,367611
+E12000008,South East,17,No passport held,1,Economically active (excluding full-time students): In employment,191519
+E12000008,South East,17,No passport held,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,23192
+E12000008,South East,17,No passport held,3,Economically active and a full-time student: In employment,3676
+E12000008,South East,17,No passport held,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,2041
+E12000008,South East,17,No passport held,5,Economically inactive (excluding full-time students),392315
+E12000008,South East,17,No passport held,6,Economically inactive and a full-time student,23341
+E12000009,South West,-8,Does not apply,-8,Does not apply,0
+E12000009,South West,-8,Does not apply,1,Economically active (excluding full-time students): In employment,0
+E12000009,South West,-8,Does not apply,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+E12000009,South West,-8,Does not apply,3,Economically active and a full-time student: In employment,0
+E12000009,South West,-8,Does not apply,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+E12000009,South West,-8,Does not apply,5,Economically inactive (excluding full-time students),0
+E12000009,South West,-8,Does not apply,6,Economically inactive and a full-time student,0
+E12000009,South West,1,Europe: United Kingdom,-8,Does not apply,631590
+E12000009,South West,1,Europe: United Kingdom,1,Economically active (excluding full-time students): In employment,2209262
+E12000009,South West,1,Europe: United Kingdom,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,72393
+E12000009,South West,1,Europe: United Kingdom,3,Economically active and a full-time student: In employment,59151
+E12000009,South West,1,Europe: United Kingdom,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,16838
+E12000009,South West,1,Europe: United Kingdom,5,Economically inactive (excluding full-time students),1230146
+E12000009,South West,1,Europe: United Kingdom,6,Economically inactive and a full-time student,158163
+E12000009,South West,2,Europe: Ireland,-8,Does not apply,1505
+E12000009,South West,2,Europe: Ireland,1,Economically active (excluding full-time students): In employment,11083
+E12000009,South West,2,Europe: Ireland,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,380
+E12000009,South West,2,Europe: Ireland,3,Economically active and a full-time student: In employment,269
+E12000009,South West,2,Europe: Ireland,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,89
+E12000009,South West,2,Europe: Ireland,5,Economically inactive (excluding full-time students),6874
+E12000009,South West,2,Europe: Ireland,6,Economically inactive and a full-time student,830
+E12000009,South West,3,Europe: Other Europe: EU Member countries,-8,Does not apply,31521
+E12000009,South West,3,Europe: Other Europe: EU Member countries,1,Economically active (excluding full-time students): In employment,144758
+E12000009,South West,3,Europe: Other Europe: EU Member countries,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,5630
+E12000009,South West,3,Europe: Other Europe: EU Member countries,3,Economically active and a full-time student: In employment,4243
+E12000009,South West,3,Europe: Other Europe: EU Member countries,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1127
+E12000009,South West,3,Europe: Other Europe: EU Member countries,5,Economically inactive (excluding full-time students),22960
+E12000009,South West,3,Europe: Other Europe: EU Member countries,6,Economically inactive and a full-time student,9145
+E12000009,South West,4,Europe: Other Europe: Rest of Europe,-8,Does not apply,806
+E12000009,South West,4,Europe: Other Europe: Rest of Europe,1,Economically active (excluding full-time students): In employment,3931
+E12000009,South West,4,Europe: Other Europe: Rest of Europe,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,298
+E12000009,South West,4,Europe: Other Europe: Rest of Europe,3,Economically active and a full-time student: In employment,162
+E12000009,South West,4,Europe: Other Europe: Rest of Europe,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,41
+E12000009,South West,4,Europe: Other Europe: Rest of Europe,5,Economically inactive (excluding full-time students),1759
+E12000009,South West,4,Europe: Other Europe: Rest of Europe,6,Economically inactive and a full-time student,690
+E12000009,South West,5,Africa: North Africa,-8,Does not apply,393
+E12000009,South West,5,Africa: North Africa,1,Economically active (excluding full-time students): In employment,969
+E12000009,South West,5,Africa: North Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,128
+E12000009,South West,5,Africa: North Africa,3,Economically active and a full-time student: In employment,44
+E12000009,South West,5,Africa: North Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,39
+E12000009,South West,5,Africa: North Africa,5,Economically inactive (excluding full-time students),507
+E12000009,South West,5,Africa: North Africa,6,Economically inactive and a full-time student,225
+E12000009,South West,6,Africa: Central and Western Africa,-8,Does not apply,804
+E12000009,South West,6,Africa: Central and Western Africa,1,Economically active (excluding full-time students): In employment,2947
+E12000009,South West,6,Africa: Central and Western Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,254
+E12000009,South West,6,Africa: Central and Western Africa,3,Economically active and a full-time student: In employment,450
+E12000009,South West,6,Africa: Central and Western Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,155
+E12000009,South West,6,Africa: Central and Western Africa,5,Economically inactive (excluding full-time students),606
+E12000009,South West,6,Africa: Central and Western Africa,6,Economically inactive and a full-time student,448
+E12000009,South West,7,Africa: South and Eastern Africa,-8,Does not apply,1079
+E12000009,South West,7,Africa: South and Eastern Africa,1,Economically active (excluding full-time students): In employment,5241
+E12000009,South West,7,Africa: South and Eastern Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,349
+E12000009,South West,7,Africa: South and Eastern Africa,3,Economically active and a full-time student: In employment,249
+E12000009,South West,7,Africa: South and Eastern Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,72
+E12000009,South West,7,Africa: South and Eastern Africa,5,Economically inactive (excluding full-time students),1235
+E12000009,South West,7,Africa: South and Eastern Africa,6,Economically inactive and a full-time student,528
+E12000009,South West,8,Middle East and Asia: Middle East,-8,Does not apply,530
+E12000009,South West,8,Middle East and Asia: Middle East,1,Economically active (excluding full-time students): In employment,757
+E12000009,South West,8,Middle East and Asia: Middle East,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,91
+E12000009,South West,8,Middle East and Asia: Middle East,3,Economically active and a full-time student: In employment,68
+E12000009,South West,8,Middle East and Asia: Middle East,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,56
+E12000009,South West,8,Middle East and Asia: Middle East,5,Economically inactive (excluding full-time students),543
+E12000009,South West,8,Middle East and Asia: Middle East,6,Economically inactive and a full-time student,679
+E12000009,South West,9,Middle East and Asia: Eastern Asia,-8,Does not apply,794
+E12000009,South West,9,Middle East and Asia: Eastern Asia,1,Economically active (excluding full-time students): In employment,3452
+E12000009,South West,9,Middle East and Asia: Eastern Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,198
+E12000009,South West,9,Middle East and Asia: Eastern Asia,3,Economically active and a full-time student: In employment,151
+E12000009,South West,9,Middle East and Asia: Eastern Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,70
+E12000009,South West,9,Middle East and Asia: Eastern Asia,5,Economically inactive (excluding full-time students),1535
+E12000009,South West,9,Middle East and Asia: Eastern Asia,6,Economically inactive and a full-time student,1335
+E12000009,South West,10,Middle East and Asia: Southern Asia,-8,Does not apply,4192
+E12000009,South West,10,Middle East and Asia: Southern Asia,1,Economically active (excluding full-time students): In employment,13441
+E12000009,South West,10,Middle East and Asia: Southern Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,845
+E12000009,South West,10,Middle East and Asia: Southern Asia,3,Economically active and a full-time student: In employment,561
+E12000009,South West,10,Middle East and Asia: Southern Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,239
+E12000009,South West,10,Middle East and Asia: Southern Asia,5,Economically inactive (excluding full-time students),4856
+E12000009,South West,10,Middle East and Asia: Southern Asia,6,Economically inactive and a full-time student,1206
+E12000009,South West,11,Middle East and Asia: South-East Asia,-8,Does not apply,676
+E12000009,South West,11,Middle East and Asia: South-East Asia,1,Economically active (excluding full-time students): In employment,5767
+E12000009,South West,11,Middle East and Asia: South-East Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,252
+E12000009,South West,11,Middle East and Asia: South-East Asia,3,Economically active and a full-time student: In employment,204
+E12000009,South West,11,Middle East and Asia: South-East Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,84
+E12000009,South West,11,Middle East and Asia: South-East Asia,5,Economically inactive (excluding full-time students),1609
+E12000009,South West,11,Middle East and Asia: South-East Asia,6,Economically inactive and a full-time student,873
+E12000009,South West,12,Middle East and Asia: Central Asia,-8,Does not apply,26
+E12000009,South West,12,Middle East and Asia: Central Asia,1,Economically active (excluding full-time students): In employment,111
+E12000009,South West,12,Middle East and Asia: Central Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,11
+E12000009,South West,12,Middle East and Asia: Central Asia,3,Economically active and a full-time student: In employment,10
+E12000009,South West,12,Middle East and Asia: Central Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,2
+E12000009,South West,12,Middle East and Asia: Central Asia,5,Economically inactive (excluding full-time students),49
+E12000009,South West,12,Middle East and Asia: Central Asia,6,Economically inactive and a full-time student,28
+E12000009,South West,13,The Americas and the Caribbean: North America,-8,Does not apply,926
+E12000009,South West,13,The Americas and the Caribbean: North America,1,Economically active (excluding full-time students): In employment,5397
+E12000009,South West,13,The Americas and the Caribbean: North America,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,266
+E12000009,South West,13,The Americas and the Caribbean: North America,3,Economically active and a full-time student: In employment,164
+E12000009,South West,13,The Americas and the Caribbean: North America,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,43
+E12000009,South West,13,The Americas and the Caribbean: North America,5,Economically inactive (excluding full-time students),2778
+E12000009,South West,13,The Americas and the Caribbean: North America,6,Economically inactive and a full-time student,478
+E12000009,South West,14,The Americas and the Caribbean: Central and South America,-8,Does not apply,905
+E12000009,South West,14,The Americas and the Caribbean: Central and South America,1,Economically active (excluding full-time students): In employment,5233
+E12000009,South West,14,The Americas and the Caribbean: Central and South America,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,480
+E12000009,South West,14,The Americas and the Caribbean: Central and South America,3,Economically active and a full-time student: In employment,190
+E12000009,South West,14,The Americas and the Caribbean: Central and South America,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,50
+E12000009,South West,14,The Americas and the Caribbean: Central and South America,5,Economically inactive (excluding full-time students),1347
+E12000009,South West,14,The Americas and the Caribbean: Central and South America,6,Economically inactive and a full-time student,437
+E12000009,South West,15,"Antarctica and Oceania, including Australasia",-8,Does not apply,365
+E12000009,South West,15,"Antarctica and Oceania, including Australasia",1,Economically active (excluding full-time students): In employment,3946
+E12000009,South West,15,"Antarctica and Oceania, including Australasia",2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,140
+E12000009,South West,15,"Antarctica and Oceania, including Australasia",3,Economically active and a full-time student: In employment,50
+E12000009,South West,15,"Antarctica and Oceania, including Australasia",4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,10
+E12000009,South West,15,"Antarctica and Oceania, including Australasia",5,Economically inactive (excluding full-time students),1333
+E12000009,South West,15,"Antarctica and Oceania, including Australasia",6,Economically inactive and a full-time student,161
+E12000009,South West,16,British Overseas Territories,-8,Does not apply,4
+E12000009,South West,16,British Overseas Territories,1,Economically active (excluding full-time students): In employment,15
+E12000009,South West,16,British Overseas Territories,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1
+E12000009,South West,16,British Overseas Territories,3,Economically active and a full-time student: In employment,0
+E12000009,South West,16,British Overseas Territories,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+E12000009,South West,16,British Overseas Territories,5,Economically inactive (excluding full-time students),13
+E12000009,South West,16,British Overseas Territories,6,Economically inactive and a full-time student,2
+E12000009,South West,17,No passport held,-8,Does not apply,283237
+E12000009,South West,17,No passport held,1,Economically active (excluding full-time students): In employment,186735
+E12000009,South West,17,No passport held,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,17325
+E12000009,South West,17,No passport held,3,Economically active and a full-time student: In employment,3610
+E12000009,South West,17,No passport held,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1778
+E12000009,South West,17,No passport held,5,Economically inactive (excluding full-time students),357388
+E12000009,South West,17,No passport held,6,Economically inactive and a full-time student,20122
+W92000004,Wales,-8,Does not apply,-8,Does not apply,0
+W92000004,Wales,-8,Does not apply,1,Economically active (excluding full-time students): In employment,0
+W92000004,Wales,-8,Does not apply,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+W92000004,Wales,-8,Does not apply,3,Economically active and a full-time student: In employment,0
+W92000004,Wales,-8,Does not apply,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+W92000004,Wales,-8,Does not apply,5,Economically inactive (excluding full-time students),0
+W92000004,Wales,-8,Does not apply,6,Economically inactive and a full-time student,0
+W92000004,Wales,1,Europe: United Kingdom,-8,Does not apply,354252
+W92000004,Wales,1,Europe: United Kingdom,1,Economically active (excluding full-time students): In employment,1150544
+W92000004,Wales,1,Europe: United Kingdom,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,45350
+W92000004,Wales,1,Europe: United Kingdom,3,Economically active and a full-time student: In employment,32245
+W92000004,Wales,1,Europe: United Kingdom,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,10175
+W92000004,Wales,1,Europe: United Kingdom,5,Economically inactive (excluding full-time students),677119
+W92000004,Wales,1,Europe: United Kingdom,6,Economically inactive and a full-time student,99995
+W92000004,Wales,2,Europe: Ireland,-8,Does not apply,720
+W92000004,Wales,2,Europe: Ireland,1,Economically active (excluding full-time students): In employment,4895
+W92000004,Wales,2,Europe: Ireland,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,202
+W92000004,Wales,2,Europe: Ireland,3,Economically active and a full-time student: In employment,138
+W92000004,Wales,2,Europe: Ireland,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,52
+W92000004,Wales,2,Europe: Ireland,5,Economically inactive (excluding full-time students),3129
+W92000004,Wales,2,Europe: Ireland,6,Economically inactive and a full-time student,428
+W92000004,Wales,3,Europe: Other Europe: EU Member countries,-8,Does not apply,11732
+W92000004,Wales,3,Europe: Other Europe: EU Member countries,1,Economically active (excluding full-time students): In employment,41905
+W92000004,Wales,3,Europe: Other Europe: EU Member countries,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,2049
+W92000004,Wales,3,Europe: Other Europe: EU Member countries,3,Economically active and a full-time student: In employment,2039
+W92000004,Wales,3,Europe: Other Europe: EU Member countries,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,616
+W92000004,Wales,3,Europe: Other Europe: EU Member countries,5,Economically inactive (excluding full-time students),8874
+W92000004,Wales,3,Europe: Other Europe: EU Member countries,6,Economically inactive and a full-time student,4116
+W92000004,Wales,4,Europe: Other Europe: Rest of Europe,-8,Does not apply,374
+W92000004,Wales,4,Europe: Other Europe: Rest of Europe,1,Economically active (excluding full-time students): In employment,1240
+W92000004,Wales,4,Europe: Other Europe: Rest of Europe,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,115
+W92000004,Wales,4,Europe: Other Europe: Rest of Europe,3,Economically active and a full-time student: In employment,56
+W92000004,Wales,4,Europe: Other Europe: Rest of Europe,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,32
+W92000004,Wales,4,Europe: Other Europe: Rest of Europe,5,Economically inactive (excluding full-time students),660
+W92000004,Wales,4,Europe: Other Europe: Rest of Europe,6,Economically inactive and a full-time student,262
+W92000004,Wales,5,Africa: North Africa,-8,Does not apply,487
+W92000004,Wales,5,Africa: North Africa,1,Economically active (excluding full-time students): In employment,593
+W92000004,Wales,5,Africa: North Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,105
+W92000004,Wales,5,Africa: North Africa,3,Economically active and a full-time student: In employment,36
+W92000004,Wales,5,Africa: North Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,47
+W92000004,Wales,5,Africa: North Africa,5,Economically inactive (excluding full-time students),440
+W92000004,Wales,5,Africa: North Africa,6,Economically inactive and a full-time student,252
+W92000004,Wales,6,Africa: Central and Western Africa,-8,Does not apply,569
+W92000004,Wales,6,Africa: Central and Western Africa,1,Economically active (excluding full-time students): In employment,1106
+W92000004,Wales,6,Africa: Central and Western Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,140
+W92000004,Wales,6,Africa: Central and Western Africa,3,Economically active and a full-time student: In employment,346
+W92000004,Wales,6,Africa: Central and Western Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,213
+W92000004,Wales,6,Africa: Central and Western Africa,5,Economically inactive (excluding full-time students),294
+W92000004,Wales,6,Africa: Central and Western Africa,6,Economically inactive and a full-time student,296
+W92000004,Wales,7,Africa: South and Eastern Africa,-8,Does not apply,299
+W92000004,Wales,7,Africa: South and Eastern Africa,1,Economically active (excluding full-time students): In employment,1363
+W92000004,Wales,7,Africa: South and Eastern Africa,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,145
+W92000004,Wales,7,Africa: South and Eastern Africa,3,Economically active and a full-time student: In employment,125
+W92000004,Wales,7,Africa: South and Eastern Africa,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,52
+W92000004,Wales,7,Africa: South and Eastern Africa,5,Economically inactive (excluding full-time students),418
+W92000004,Wales,7,Africa: South and Eastern Africa,6,Economically inactive and a full-time student,203
+W92000004,Wales,8,Middle East and Asia: Middle East,-8,Does not apply,834
+W92000004,Wales,8,Middle East and Asia: Middle East,1,Economically active (excluding full-time students): In employment,438
+W92000004,Wales,8,Middle East and Asia: Middle East,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,91
+W92000004,Wales,8,Middle East and Asia: Middle East,3,Economically active and a full-time student: In employment,64
+W92000004,Wales,8,Middle East and Asia: Middle East,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,39
+W92000004,Wales,8,Middle East and Asia: Middle East,5,Economically inactive (excluding full-time students),573
+W92000004,Wales,8,Middle East and Asia: Middle East,6,Economically inactive and a full-time student,1030
+W92000004,Wales,9,Middle East and Asia: Eastern Asia,-8,Does not apply,399
+W92000004,Wales,9,Middle East and Asia: Eastern Asia,1,Economically active (excluding full-time students): In employment,1548
+W92000004,Wales,9,Middle East and Asia: Eastern Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,70
+W92000004,Wales,9,Middle East and Asia: Eastern Asia,3,Economically active and a full-time student: In employment,58
+W92000004,Wales,9,Middle East and Asia: Eastern Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,18
+W92000004,Wales,9,Middle East and Asia: Eastern Asia,5,Economically inactive (excluding full-time students),660
+W92000004,Wales,9,Middle East and Asia: Eastern Asia,6,Economically inactive and a full-time student,697
+W92000004,Wales,10,Middle East and Asia: Southern Asia,-8,Does not apply,1469
+W92000004,Wales,10,Middle East and Asia: Southern Asia,1,Economically active (excluding full-time students): In employment,4719
+W92000004,Wales,10,Middle East and Asia: Southern Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,363
+W92000004,Wales,10,Middle East and Asia: Southern Asia,3,Economically active and a full-time student: In employment,605
+W92000004,Wales,10,Middle East and Asia: Southern Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,323
+W92000004,Wales,10,Middle East and Asia: Southern Asia,5,Economically inactive (excluding full-time students),2347
+W92000004,Wales,10,Middle East and Asia: Southern Asia,6,Economically inactive and a full-time student,923
+W92000004,Wales,11,Middle East and Asia: South-East Asia,-8,Does not apply,299
+W92000004,Wales,11,Middle East and Asia: South-East Asia,1,Economically active (excluding full-time students): In employment,1870
+W92000004,Wales,11,Middle East and Asia: South-East Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,125
+W92000004,Wales,11,Middle East and Asia: South-East Asia,3,Economically active and a full-time student: In employment,65
+W92000004,Wales,11,Middle East and Asia: South-East Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,40
+W92000004,Wales,11,Middle East and Asia: South-East Asia,5,Economically inactive (excluding full-time students),665
+W92000004,Wales,11,Middle East and Asia: South-East Asia,6,Economically inactive and a full-time student,353
+W92000004,Wales,12,Middle East and Asia: Central Asia,-8,Does not apply,13
+W92000004,Wales,12,Middle East and Asia: Central Asia,1,Economically active (excluding full-time students): In employment,31
+W92000004,Wales,12,Middle East and Asia: Central Asia,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1
+W92000004,Wales,12,Middle East and Asia: Central Asia,3,Economically active and a full-time student: In employment,1
+W92000004,Wales,12,Middle East and Asia: Central Asia,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,2
+W92000004,Wales,12,Middle East and Asia: Central Asia,5,Economically inactive (excluding full-time students),21
+W92000004,Wales,12,Middle East and Asia: Central Asia,6,Economically inactive and a full-time student,9
+W92000004,Wales,13,The Americas and the Caribbean: North America,-8,Does not apply,255
+W92000004,Wales,13,The Americas and the Caribbean: North America,1,Economically active (excluding full-time students): In employment,1612
+W92000004,Wales,13,The Americas and the Caribbean: North America,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,104
+W92000004,Wales,13,The Americas and the Caribbean: North America,3,Economically active and a full-time student: In employment,43
+W92000004,Wales,13,The Americas and the Caribbean: North America,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,40
+W92000004,Wales,13,The Americas and the Caribbean: North America,5,Economically inactive (excluding full-time students),936
+W92000004,Wales,13,The Americas and the Caribbean: North America,6,Economically inactive and a full-time student,209
+W92000004,Wales,14,The Americas and the Caribbean: Central and South America,-8,Does not apply,155
+W92000004,Wales,14,The Americas and the Caribbean: Central and South America,1,Economically active (excluding full-time students): In employment,823
+W92000004,Wales,14,The Americas and the Caribbean: Central and South America,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,68
+W92000004,Wales,14,The Americas and the Caribbean: Central and South America,3,Economically active and a full-time student: In employment,64
+W92000004,Wales,14,The Americas and the Caribbean: Central and South America,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,24
+W92000004,Wales,14,The Americas and the Caribbean: Central and South America,5,Economically inactive (excluding full-time students),276
+W92000004,Wales,14,The Americas and the Caribbean: Central and South America,6,Economically inactive and a full-time student,118
+W92000004,Wales,15,"Antarctica and Oceania, including Australasia",-8,Does not apply,87
+W92000004,Wales,15,"Antarctica and Oceania, including Australasia",1,Economically active (excluding full-time students): In employment,937
+W92000004,Wales,15,"Antarctica and Oceania, including Australasia",2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,31
+W92000004,Wales,15,"Antarctica and Oceania, including Australasia",3,Economically active and a full-time student: In employment,6
+W92000004,Wales,15,"Antarctica and Oceania, including Australasia",4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,3
+W92000004,Wales,15,"Antarctica and Oceania, including Australasia",5,Economically inactive (excluding full-time students),346
+W92000004,Wales,15,"Antarctica and Oceania, including Australasia",6,Economically inactive and a full-time student,47
+W92000004,Wales,16,British Overseas Territories,-8,Does not apply,1
+W92000004,Wales,16,British Overseas Territories,1,Economically active (excluding full-time students): In employment,4
+W92000004,Wales,16,British Overseas Territories,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+W92000004,Wales,16,British Overseas Territories,3,Economically active and a full-time student: In employment,0
+W92000004,Wales,16,British Overseas Territories,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,0
+W92000004,Wales,16,British Overseas Territories,5,Economically inactive (excluding full-time students),4
+W92000004,Wales,16,British Overseas Territories,6,Economically inactive and a full-time student,2
+W92000004,Wales,17,No passport held,-8,Does not apply,175293
+W92000004,Wales,17,No passport held,1,Economically active (excluding full-time students): In employment,110687
+W92000004,Wales,17,No passport held,2,Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,14206
+W92000004,Wales,17,No passport held,3,Economically active and a full-time student: In employment,2107
+W92000004,Wales,17,No passport held,4,Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks,1283
+W92000004,Wales,17,No passport held,5,Economically inactive (excluding full-time students),244001
+W92000004,Wales,17,No passport held,6,Economically inactive and a full-time student,16164
